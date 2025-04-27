@@ -9,4 +9,5 @@ Password\ for\ user
 
 # macOS system file
 .DS_Store
+.env
 
