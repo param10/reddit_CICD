@@ -1,0 +1,1588 @@
+title,selftext,author,score,num_comments,created_utc,url
+Some ground rules for programming.,"
+• Learn SQL before ORM.
+• Learn Git before Jenkins.
+• Learn SQL before NoSQL.
+• Learn CSS before Tailwind.
+• Learn Linux before Docker.
+• Learn Solidity before dApps.
+• Learn English before Python.
+• Learn REST before GraphQL.
+• Learn JavaScript before React.
+• Learn HTML before JavaScript.
+• Learn Debian before Arch Linux.
+• Learn React before Microfrontends.
+• Learn Containers before Kubernetes.
+• Learn Monolith before Microservices.
+• Learn Data Structures before Leetcode.
+• Learn Networking before Cloud Services.
+• Learn Monolith before Modular Monolith.
+• Learn to draw Flowcharts before writing Code.
+
+↳ Learn fundamentals before going deep.
+
+This is a good read from the Internet. 
+
+What else should make the list?",Wonderful-Piece4577,1457,129,2025-03-18 16:56:07,https://www.reddit.com/r/learnprogramming/comments/1je9qiz/some_ground_rules_for_programming/
+I'm addicted to programming and I can't stop thinking about it ,"I tried learning programming at 12 and then 14 when I followed a Python Udemy course, then a HTML/CSS course. But watching the videos and simply copying what they did was so incredibly boring and I didn't see the point in it at all.
+
+It all changed in December 2023 when I saw a recommendation on Reddit to complete The Odin Project to learn programming. I still didn't really care about it, I just needed to learn the basics for school. I was second and final year into my Computer Science A Level and we were required to create a project and I had no idea how to write a single line of code.
+
+The Odin Project is a massive online open-source curriculum for learning Web Development. It takes many people years to complete it, since it teaches you about HTML, CSS, JS, React and backend development. It's a huge commitment to complete it and I decided to give it a try.
+
+Low and behold, it was the most life impacting choice I have made in my life (I was only 17 at the time). Learning material, then building your own project was insane dopamine hits I have never experienced before. My first website was a simple HTML/CSS static site. 10 days later I had already written a calculator application website with JavaScript. 3 months later I had completed 80% of The Odin Project, excluding the final course (backend & NodeJS).
+
+I had done what takes many people years to do in just 70 days, simply because of how much time I was putting into it (probably 12-16 hours a day). My grades in school plummeted because of that, since I was spending almost all my time reading documentation and writing code.
+
+The final course in Odin Project was Express-based. at that point I had already done my research and decided I didn't want to continue with The Odin Project, because I wanted to learn NextJS and TypeScript, two extremely used things in the web industry that Odin Project didn't teach.
+
+I taught these two technologies to myself by simply reading the entire documentation for both of them a few times. I created my first proper Full-Stack website with user authentication, OAuth etc 5 months after my first introduction to web development.
+
+Since then, I had been continuing spending almost all of my day following web development news, learning new technologies, and thinking of new ideas. I feel like a superhero who can create literally anything I want. It feels amazing.
+
+When I finished school, I had decided that I don't want to go to university and would rather just spend all my day writing code and learning new things.
+
+I have seriously went through so many cycles as a programmer. Including my 1-month long phase of customizing my Arch Linux, Neovim, i3. Then being obsessed about clean and efficient code, to just thinking of code as a medium in which I can turn my ideas into reality. Then the phase where I consumed 100+ hours of content on Web Design, UI/UX, Accessibility. Reading the two most recommended books (Refactoring UI & Practical UI) on web design several times. Contributions to open-source with like 80 merged pull requests at this point (Most of it was to Odin Project).
+
+And now, it continues. I am in constant pursuit of wanting to learn more and more about this industry. I know there's sooo much I don't know. I feel extremely comfortable in creating web applications using Next.js, typescript and tailwindcss.
+
+I realised that if I wanted to learn another language (C#), framework (Svelte, .NET), or any other technology it would be a million times easier to do because I already have the foundational knowledge that I can build upon.
+
+But I grew to really love JavaScript, which is my favorite scripting language, and TypeScript, which is my favorite programming language. I just love the npm ecosystem and creating any sort of script is incredibly fun.
+
+Now that I can build literally anything, I'm always thinking of new ideas for what I should make. I like spending 1-2 days trying out something, and if I can see it won't work out then I'll shift my focus to something else.
+
+I love learning completely new technology but I realize I should probably get a job soon. I'm not employed and I don't have any money. I don't really care though, I am just having the time of my life and I'm pretty happy that I can make money from this at some point. But for me it's more of something recreational.
+
+I am now 18 and not going to university, probably just gonna continue expanding my skillset. One thing I completely understand is that I'll need to learn how to work in a team of other software engineers. I'm actually excited to do that because I finally will be able to talk with other people about things like React, programming, etc. I don't know anyone in real life who is interested in any of those things that I am, so I am looking forward to that.
+
+This post was just me venting my thoughts and experiences, It's not meant to have any deeper meaning than that.",nikitarevenco,1251,218,2024-10-24 09:43:41,https://www.reddit.com/r/learnprogramming/comments/1gayq6e/im_addicted_to_programming_and_i_cant_stop/
+My life as a full stack developer is a joke and a waste of time ,"
+I’m a full-stack developer with 3 years of experience. I have worked with frontend technologies (HTML, CSS, JavaScript, React), and backend (Java: springboot, Python: Flask, basic NLP/ML). The issue is that I constantly switch between stacks in my work. For the past 3–4 months, I have been working with Java, but now I can’t even remember the syntax for frontend technologies, not even basic HTML, CSS, or JavaScript. I feel like an idiot who has wasted 3 years. How can I have worked on something and not even remember it? I was embarrassed because, during an interview, I was asked a React question, and I couldn’t code. Then, I was asked a Java question, and I couldn’t code that either. 
+
+Full stack developers, how do you remember all the syntax for frontend and backend in an interview?
+
+I know during work we can google the syntax but in an interview the interviewer expect us to write a workable code.",Funny-Ad218,721,130,2024-12-03 20:22:34,https://www.reddit.com/r/learnprogramming/comments/1h5x3xt/my_life_as_a_full_stack_developer_is_a_joke_and_a/
+Is it normal to feel super stupid when learning programming?,"Hello, everyone! I recently returned from the war, in which I participated for more than 2 years (I am an officer of the Armed Forces of Ukraine), and it so happened that I decided to change my profession. I have always been interested in IT and technology, how everything works ""under the hood"". Now I'm studying the Python programming language, everything seems to be okay, I understand how it works, what is involved and the specifics, but when it comes to performing some independent task, I just get stuck. It doesn't seem like a very difficult task, but I can sit for days and think about how to do it, and eventually I start doing a lot of googling and using artificial intelligence to solve it, and everything works out. But there is no such thing as me realizing how to do it better on my own. Although other people in my study group do it much faster than me, so I sometimes lose motivation, but I keep doing it. And I feel stupid all the time. Maybe I'm not studying very effectively, what would you advise me to do in such a situation? Thank you all for your response.",spa7id,696,201,2024-05-16 08:34:31,https://www.reddit.com/r/learnprogramming/comments/1ct87t9/is_it_normal_to_feel_super_stupid_when_learning/
+I think people are getting the wrong idea about learning to code.,"I am glad there are so many free resources available to learn the languages of coding.  However, I think people are missing the point of coding.  You can learn the entire python language but it is a Tool for a problem.  Until you have a problem to solve you will NEVER truly learn coding.  I'm old and I'm trying to relearn how to use these tools again after having spent a career in a non tech job.  When I first started learning, I was using floppy disks to transfer a C+ language program from my workstation to the compiler :).  Curious if anyone understands how primitive those methods were.",Jackratatty,652,117,2024-09-30 17:25:13,https://www.reddit.com/r/learnprogramming/comments/1ft17mr/i_think_people_are_getting_the_wrong_idea_about/
+"Dear future coders/full stack devs/app makers, this is what I would've told the younger me.","I know your lazy but write comments on whatever you do and whatever you may need to make changes to later. Lost so much time relearning a code blocks. No one has perfect memory.
+
+Using chat gpt to code is great but understand the code. go to documentation of what your using (ex celery, react) because the answers are most likely there. no its not scary.
+
+Stuck on a bug for too long and feel like your going crazy? happens to everyone take a walk, ask out your crush, hug a stranger, anything to get your mind off of it.
+
+Try to avoid requesting data from your database don't use mysql too much caching is your friend. if you do only get/update whats needed 
+
+Cache everything and anything. caching can always become more efficent (example I cached 20000 stocks in 5 different arrays/caches then realized caching by their first letter is faster) this speeds up time and saves money. redis is my go to. 
+
+All code can be more efficent its an endless loop don't try to over do everything. you will lose time
+
+Backup all your data. Dont make mysql commands without knowing 100% what your doing. databases have been deleted before. cough cough gitlab deleted cough a database I backup to backblaze on the daily and home laptop/server
+
+Github is a must a push is updating code in your github project and pull is retrieving changes from other people. This is a push: 
+
+git add . 
+
+git commit -m ""Your commit message here"" 
+
+git push origin main  
+
+FIRST TIME git push -u origin main
+
+this is a pull:
+
+git pull origin main and enter your user and pass
+
+Docker is great to seperate your database, daily backups, backend, frontend, tasks/celery, ext. Just a sh file that basicaly automates using terminal to install all necessary packages and commands you normaly typed to get your database/ backend working. 
+
+My backend sh for django installs python, copies my code, and packages I added 
+
+    FROM python:3.10.10-slim
+    
+    ENV PYTHONUNBUFFERED 
+    1
+    WORKDIR 
+    /backend
+    RUN 
+    apt-get
+     
+    update
+     
+    &&
+     \
+        
+    apt-get
+     
+    install
+     
+    -y
+     
+    python3-dev
+     
+    default-libmysqlclient-dev
+     
+    redis-tools
+     
+    build-essential
+     
+    pkg-config
+    COPY 
+    ./requirements.txt
+     
+    .
+    RUN 
+    cat
+     
+    requirements.txt
+    RUN 
+    pip
+     
+    install
+     
+    -r
+     
+    requirements.txt
+    COPY 
+    .
+     
+    .
+
+Server are the most expensive so if your starting out use hetzner its the cheapest. next cheapest is digital ocean. If you want to burn all your money or big company use aws google cloud or any other big company. 
+
+Cloudflare is everywhere because they are the best. Use it for caching photos. Not videos because they dont allow unless you use their database. Use zero trust to protect your server. its just a docker container and cloudflare serves as a middle man. 
+
+Video and photo stoarage backblaze b2 is cheap. if you want to burn money or big company s3 is good
+
+Random info but i use amex acount for business because its the only one that doesnt require money in the account. lol i have $1 and no fees no issues yay. Filed using northwest for an LLC and haven't had any issues
+
+So far my database is mysql, frontend is quasar/vuejs, capacitor for ios, backend is django, celery and websockets for automating tasks(used with django), nginx, apis are financial modeling prep for stock data, postmark for emails( couldn't get into aws ses and its soooo cheap ugh)
+
+Some commands I use everyday:
+
+python3 [manage.py](http://manage.py) runserver for django dev server, python [manage.py](http://manage.py) shell to make changes to django backend, python3 [manage.py](http://manage.py) makemigrations change data/columns, python3 [manage.py](http://manage.py) migrate change data/column, quasar dev to start frontend, docker-compose up --build run/update containers , docker-compose exec container sh to get into container, quasar build -m capacitor -T ios to build ios app, npx cap open ios to open ios app
+
+Anyone else have anything to add? 
+
+",dili_daly,603,72,2025-02-17 22:28:21,https://www.reddit.com/r/learnprogramming/comments/1irwvm7/dear_future_codersfull_stack_devsapp_makers_this/
+Found my first SE job at 32 years old,"Hi, I would like to share my joy of finally finding a job as a full stack software engineer after one year of learning programming from scratch. I would like to share with you my journey and I hope this will encourage others to stick to the path and to continue grinding. I know that these are worrisome times now for the industry, the market is scary, there are a lot of doomers everywhere, but if I can do it at 32 years old, so can you.
+
+My journey:
+
+February 2023 - bought book Python Crash Course. 
+
+May 2023 - finish the book, at this point I understand that I enjoy programming and that I want to dedicate myself to this full time.
+
+June 2023 - quit my high-paying but unsatisfactory corporate job and buying one-way ticket from US to Thailand, never intending to go back to US and thereby forfeiting my H1B status.
+
+June 2023 - January 2024 - grinding The Odin Project. Decided to skip the final 3 projects because I had no interest in building something which is just a portfolio throwaway when I know I have the skillset to built something that is actually useful.
+
+February 2024 - April 2024 - spending 3 months to build and release my first full stack project. Getting bored by it after releasing it, so decided to write down the backlog and postpone it for later. Great ideas, but tedious to implement while not being too challenging.
+
+May 2024 - having a month off from programming, traveling and enjoying life.
+
+June 2024 - finding joy in quick dopamine boosts from grinding leetcode. Solved 50 problems following the NeetCode roadmap. Also building portfolio website showcasing some of my favorite projects that I've built throughout this journey.
+
+July 2024 - actively applying to companies. Applied to about 25-30 companies. Just sending my portfolio and polished resume with a small cover letter to each company. Finding direct contacts of HRs on telegram and reaching out to them. Two start-up companies called for an interview. Had two interviews at each company. One is still considering, another gave me an offer. $1000 - while not much relative to USA (1/12 of what I was getting in US), enough to live comfortably in Asia and a good start to build career that I actually enjoy.
+
+I spent this year traveling and doing the stuff I want. Taking days off when I need, and just doing everything at my own pace. Granted, I was fortunate to have some budget to afford this endeavor, it still didn't cost me too much. I lived frugally and spent at about $1000 per month through this period. I think it's not a bad cost for the education plus the opportunity to travel and see the world.
+
+I begin my first working day on Tuesday and I'm very enthusiastic about this. Consistency and dedication makes it guys. Just keep grinding and don't listen to the doomers, and you'll make it.
+
+
+
+",velinovae,589,91,2024-07-20 14:51:54,https://www.reddit.com/r/learnprogramming/comments/1e7xehe/found_my_first_se_job_at_32_years_old/
+Why is Python so popular?,"Hello, this may be a naive question, but why is Python so popular among data scientists, and why is it so heavily utilized for machine learning? I was under the impression that compiled languages such as C would be better choices for such task, as their faster runtimes would facilitate quicker data analysis. I understand that many python libraries were written in C, as to negate the issue; so then is the preference for Python solely due to its simple syntax, or is there another reason?",mak_0777,580,245,2024-04-30 23:10:21,https://www.reddit.com/r/learnprogramming/comments/1ch6tfk/why_is_python_so_popular/
+Just finished my first-ever technical interview and here are the questions that were asked,"Hi everyone!
+
+Today, I completed my first-ever technical interview since graduating, and I wanted to share my experience, including the questions and coding test I was asked. Hopefully, this will help others feel more confident as they prepare!
+
+## Context
+
+I am a backend developer specializing in web apps and APIs. My overall skill set is still quite basic, and the main programming skills I list on my resume include:
+
+- C#
+- .NET
+- HTML, CSS, JavaScript
+- SQL Server
+
+I only minimally qualified for the position I applied for, as it required a broader set of technologies, including PHP, C#, Java, React, Next.js, and others. The company primarily works on outsourced projects, so they want developers who are at least familiar with various technologies and frameworks.
+
+## Job Requirements
+
+Here’s a breakdown of the job requirements for the position:
+
+- **Experience:** No prior experience required (will be trained).
+- **Programming Skills:** Must be able to work with at least one of the following:
+   - **Languages/Frameworks:** C#, PHP, Java, Python, Node.js, React, Vue.js, Next.js, Angular, React Native...
+   - **Databases:** MySQL, PostgreSQL, Oracle, MS SQL Server.
+   - (Note: They use the phrase “at least,” so I don’t think they expect candidates to know all of these technologies. It seems they’re looking for someone who’s proficient in one and recognizes the others/knows what they are about to throw themselves into.)
+- **Soft Skills:** These were also mentioned, but I won’t list them here.
+
+## Questions
+
+The interview took about 90 minutes. I will separate the question into categories.
+
+**C#/.NET:**
+1. Tell me about .NET and C#. What are the differences between them?
+2. What are the important components of .NET? Explain the CLR.
+3. What are Value Types and Reference Types?
+4. What are the Stack and Heap? Explain the differences.
+5. What are ref and out in C#? Explain the differences.
+6. Explain Boxing and Unboxing. What are the issues with Boxing and Unboxing?
+7. What are Properties in C#?
+8. What are the differences between an Abstract Class and an Interface? When should you use each?
+9. What is the static keyword used for in C#?
+10. How do you handle exceptions in C#?
+11. What are Generics, and what are their benefits?
+12. What are Collections in C#?
+13. What is LINQ?
+14. What are Delegates, and when to use them?
+15. What are Lambda Expressions in C#?
+16. What are async and await, and how are they used?
+17. What are Design Patterns, and what problems do they solve?
+
+**OOP:**
+1. What is OOP, and why do we need it?
+2. What is a Class? What is an Object?
+3. What is Polymorphism? (Follow-up questions include Method Overloading and Method Overriding.)
+4. What is SOLID? (They ask me to go into detail about each principle when I give a simple answer about the definition.)
+
+**SQL:**
+1. What is Left Join? What is Inner Join?
+
+**Web:**
+1. Tell me about HTTP methods. Can I create using a GET if I want to?
+2. What is the difference between GET and POST? (I was confused and unable to give the correct answer. They were asking about how data is sent to the server.)
+3. Do you know about React?
+ - It is a JavaScript framework.
+ - Yeah, but have you ever used it?
+ - No.
+
+## The Coding Test
+
+1. The FizzBuzz problem.
+2. Implement a Doubly Linked List (with InsertAtFront, InsertAtLast, InsertAfter, and DeleteAtPosition).
+3. Sort the list.
+
+Overall, I think I did quite well. I think they focus a lot on the C# part since that is my main skill in the resume. But most of the questions are memorable knowledge; they don't ask any trick questions to catch me or something. The coding test I need a lot of hints (or straight-up the verbal solution for the Delete method) from them in the second question, and I completely fold at the last one.
+
+So yeah, the preparation before the interview was very stressful, and I feel like sharing the experience.",Bennyccynn,568,89,2025-01-22 15:46:08,https://www.reddit.com/r/learnprogramming/comments/1i7e2hd/just_finished_my_firstever_technical_interview/
+"Learning programming: I finally ""get it""","Been studying programming on and off in my spare time for a few years now. I'm in my early 30s. Never really progressed past tutorial hell and courses. Couldn't begin anything for my CS50P final project because I was aiming too complex and just becoming discouraged. 
+
+Wrote a Python program for my job -- nothing too crazy, formats things that I use every day according to the formatting required for a bunch of security controls, and man, when I was testing and the output was coming out perfect I finally understand why this is so addictive. I thought I was too dumb to do anything; started too late, blah blah blah. The satisfication I feel from 200 lines of WET code that I can now reformat into something polished is awesome.
+
+Now I'm looking forward to submitting my final project and moving onto another language (probably via CS50x) to continue learning. I'm just stoked that I finally wrote something myself from scratch and wanted to share :) ",Upbeat-Salary3305,459,63,2024-05-24 01:27:00,https://www.reddit.com/r/learnprogramming/comments/1cz97f7/learning_programming_i_finally_get_it/
+Why do people build everything in JavaScript?,"I do understand the browser end stuff, it can be used for front end, back end, it's convenient. However, why would people use it to build facial feature detectors, plugins for desktop environments, and literally anything else not web related? I just don't see the advantage of JavaScript over python or lua for those implementations.",TheHolyToxicToast,369,240,2024-09-18 14:56:09,https://www.reddit.com/r/learnprogramming/comments/1fjutxw/why_do_people_build_everything_in_javascript/
+"I have a CS degree but suck at programming, looking for advice on moving forward in life.","I have a degree in CS, no experience, overall suck at programming and am looking for help.
+
+  
+I understand that my only chance of getting a job in this field is to have created some outstanding project that would impress the hell out of a recruiter to the point where they could confidently assume I am proficient in my ability to design/build things. Currently this is not what I am as a developer at all.
+
+I have dabbled in many different areas attempting to build projects and either get stuck and quit, lose interest and quit, or just feel too overwhelmed to even start. I've tried game dev and some full stack applications so far and honestly haven't accomplished much. I believe my problem is that I rely too hard on AI to write code for me. I know this is kind of a controversial thing to say, as many people who are established professionals use AI to help them write code all the time. But the problem is I'm letting AI write code I don't really understand. I'll tell myself I understand it, but later down the line when it comes to fixing something or adding something new I can't do it.
+
+I believe a lot of my inability to program comes from my lack of programming principles. In school I learned some theory, some basic programming in C, C++, Java, and Python. In my spare time I've attempted to learn React/JavaScript, Godot, Spring boot, and databases like MongoDB and Postgresql.  I've found that generally speaking I seem to be more interested in low level code and the C++ language, but when it comes to jobs involving these things it seems the main industries are quant and embedded systems which I have no foundation in at all, and don't even know how to start learning them.
+
+I've tried learning through YouTube and online courses and have found that these just don't work for me. They are either too slow and boring or too fast and not explanatory enough. I know most people say to just learn by trying to build things, but I don't even know where to begin half the time. 
+
+I have neglected learning through reading books outside of the ones I have read during my degree. I think I need to change my method of studying to something else besides watching videos and maybe do more reading so if anybody has an books they recommend that genuinely helped them be more confident in programming I would appreciate any suggestion. 
+
+Thank you for reading.",Big_Organization_181,360,140,2024-12-17 05:54:49,https://www.reddit.com/r/learnprogramming/comments/1hg444i/i_have_a_cs_degree_but_suck_at_programming/
+What’s that one Python tip you wish you knew when you started?,"I just started learning Python (like, a week ago), I keep seeing posts where people say stuff like ""why did no one tell me about this and that""
+
+So now I’m curious:  
+What’s that ONE Python tip/habit/trick you wish someone had told you when you were a beginner?
+
+Beginner-friendly please. I'm trying to collect wisdom lol",memermaker5,336,66,2025-04-15 18:51:20,https://www.reddit.com/r/learnprogramming/comments/1jzztpq/whats_that_one_python_tip_you_wish_you_knew_when/
+Learning math made learning programming easier,"Hello everyone. I thought I just wanted to share this experience with you. So I've been programming for the past 8-7 years now, I think? I'm 20 rn and I started at like 12 or something just dabbling around with Python + some html css (they're not programming languages but you know, intro stuff). I've always been kind of off with my math back then and was horrible at it. I've always just approached the problems in my code with just intuitive problem solving. You know, things that might just work.
+
+These past months though, I've been getting really interested in math. So much so, that it has replaced my hobby of progamming (lol). What I noticed though was just how different I think about certain concepts. For example, functions. Back then, I kind of just thought of this as some wrapper of code that I can call whenever I wanted to. But getting to learn more about them in Calculus and how much I can manipulate them, it has also translated to my programming skills. Instead of just a wrapper for my code, I treat them now like actual items that take in parameters and spits out an output. Of course like, duh, but it really has changed my perspective and style on how I code now. Back then, it's more programming first then do the math to check. Now, it's math first, and let my code check if my math was correct. If it's correct, my code runs. If not, then math was wrong.
+
+I just wanted to share this insight with you guys who may be struggling to grasp some concepts in programming. Maybe, learning where these concepts came from might actually give you a deeper understanding of what they actually do.",Neither-Mix-6597,330,25,2025-04-23 08:21:38,https://www.reddit.com/r/learnprogramming/comments/1k5tzx5/learning_math_made_learning_programming_easier/
+What’s the most underrated programming language you’ve learned and why?,"I feel like everyone talks about Python, JavaScript, and Java, but I’ve noticed some really cool languages flying under the radar. For example, has anyone had success with Rust or Go in real-world applications? What’s your experience with it and how does it compare to the mainstream ones?",uriht_,320,269,2025-04-18 16:56:40,https://www.reddit.com/r/learnprogramming/comments/1k29saw/whats_the_most_underrated_programming_language/
+Do you need to have an above average intelligence to became a really good programmer?,"Hi all, just as the title says: I'm a total beginner, I'm studying Python and programming daily and I really love it. Actually I always loved it since I was a young kid, but I didn't had the means and then I took other job path, but the passion always remained. Now I want seriously to make up the lost time and learn as much as possible daily. The problem is that I'm only able to do basic things and often I find myself looking at open source code and It's impossible to understand for me, let alone make it from the ground. Sometimes I find myself thinking that maybe I'm not smart enought to became a good programmer. I mean, there are many people who develop the most complex thing ever (games, AI, software for penetration testing etc) and I feel like I live I don't have any talent or anything special to became like them. Does anyone here had the same thoughts in the past? Do you have any advice? Thank you a lot!",GoBeyondBeRelentless,318,290,2025-03-27 18:22:33,https://www.reddit.com/r/learnprogramming/comments/1jlas89/do_you_need_to_have_an_above_average_intelligence/
+Am I too stupid for programming? Genuine question.,"Hello everyone,
+
+I'm 22/F and decided to study software engineering at an university. I've enjoyed it up until now.
+
+Right now, we use **Pascal** as a programming language. Yes. **Pascal.** There are literally SO LITTLE resources for pascal online. There are no online courses like leetcode or anything for pascal, only for like python or stuff but I dont know anything about its syntax.
+
+We have a course called ""Datastructures and Algorithms"" which is connected to the module ""programming"". We always get programming exercises that we need to solve with the stuff we talked about in the previous lesson.
+
+For example, the last two lessons we talked about arrays: I understood the concept of the index, how to go through an array, etc.
+
+BUT heres the problem: I find our homework so so hard. I find it's almost impossible for me to solve. I feel so stupid.
+
+1. I don't know how to begin, I don't know where to begin. I don't know how to break the problem down into smaller problems, I don't know when it's small enough to put it into code.
+
+And when I ""know"" how to solve a problem, after hours, days, weeks of trying, failing, being frustrated it doesnt work the way I want it to work and the entire code is useless because one part specifically doesn't work the way I want it to work.
+
+2. nested loops with arrays confuse me A LOT. When do I have to use for loops, when do I have to use while loops? Essentially I know, that for loops are used for counting and while loops are used for doing something while a condition is true. However that doesnt always seem to be the case? Sorta?
+
+When I get stuck on my homework, I ask chatgpt (yes, I know its bad, but what am I supposed to do? I have absolutely no idea) how to approach the problem. I send my code to chatgpt, it tells me what to improve, etc etc.. But sometimes I simply don't understand why or how chatgpt would code it like that.
+
+I have many examples if someone wants to help me out and take a look at it (I would really, really appreciate that).
+
+My classmates seem to grasp these concepts so, so fast and they take a maximum of 5 hours for an exercise, meanwhile I sit here for 20+ hours for ONE exercise. I just feel really, really dumb. Obviously it can't be that hard, otherwise our professors wouldnt give us these exercises. It's obviously doable, somehow. Am I lacking intelligence, creative thinking, what is it? I mean I know I'm not the brightest, but.. am I cooked?
+
+I also end up procrastinating and feeling guilty over it because I dont know how to approach these problems and tasks. Its so hard for me. Is programming just not for me?
+
+I also struggle with super simple algorithms like sorting an array, merging two arrays, reversing an array, removing duplicates from an sorted array, ... Like if you would ask me to do something like this, I wouldnt even know where to begin, or how to implement it.
+
+Help, I really want to like it and be good at it.. but it seems so impossible :(
+
+Edit: wow thank u so much guys! I didn't think I would get so many comments and feedback :) I do feel a bit better, I practiced a bit today and I actually had some ideas how to solve a problem, but i couldnt implement it yet haha
+
+I do write my ideas down on paper step by step but sometimes I just have so many ideas or approaches to a problem, and I'm absolutely not sure which one is going to work or which one I'm going to implement - or if it's even possible to solve it the way I solved it on paper! And then translating all of it in code is a nightmare ahhh
+
+I'm trying to read every comment and trying to reply to messages and I'm sorry if I don't instantly respond!",002mercury,316,321,2024-11-12 18:28:15,https://www.reddit.com/r/learnprogramming/comments/1gprmz2/am_i_too_stupid_for_programming_genuine_question/
+does anybody else kinda dislike python?,"My first language was c++ and i found the commands pretty straightforward. I guess yes it can get bulky and pointers and buffer overflows and all of that sucks, but for some reason i find python very very confusing. Being unable to declare variables without giving them a value feels strange after being used to declaring all variables at the beggining of a program. I hate correcting indentation errors instead of just tracking missing or extra brackets.
+
+ I know it's supposed to be easier but it feels weird to me overall. I've only been using Python for about 4 months because that's what we are using at school, so maybe I need to give myself more time. 
+
+I'm gonna make an effort with Python because I know it's one of the languages that has more job offers, but I want to work with C++ for my personal projects because... I miss it, lol. I feel good about getting out of my comfort zone, though. ",RegularLibrarian8866,298,266,2024-05-13 00:20:27,https://www.reddit.com/r/learnprogramming/comments/1cqm5i1/does_anybody_else_kinda_dislike_python/
+PSA: You Might Be Paying for Udemy Courses You Can Get for Free,"Just a heads-up for anyone buying Udemy courses—your local library might already give you free access through [Gale Presents: Udemy!](https://www.gale.com/c/udemy) It has a ton of the same highly-rated programming courses people are dishing out hundreds of dollars for. 
+
+How to Check:
+
+Instead of digging through your library’s website, just go to Gale’s website and search for your library’s name. If it’s listed, you can log in with your library card and get access at no cost.
+
+If your library isn’t listed, don’t worry! Some public libraries let you sign up for a free online card even if you don’t live there. Check out these [library e-cards](https://everyday-reading.com/where-you-can-get-a-non-resident-library-card/). This is a non-comprehensive list of libraries, but has many good options for those who don’t know where to start!
+
+Some libraries I recommend through personal experience or being informed about it:
+* [Montgomery County Public Library](https://www.montgomerycountymd.gov/library/) (open to all residents of Maryland, DC, and northern Virginia counties || has access to Udemy and O’Reilly Library)
+* [Rosenberg Library](https://rosenberg-library.org)
+
+Some of the Udemy Bestsellers You Can Get for Free:
+* Python for Data Science and Machine Learning Bootcamp
+* The Web Developer Bootcamp 2024 (HTML, CSS, JavaScript, Node.js)
+* Java Programming Masterclass
+* The Ultimate MySQL Bootcamp
+* Linux Command Line Basics
+
+A lot of people don’t realize their library offers this, so I figured I’d share. Hope this helps someone out!
+
+Edit: formatting and spelling error correction
+
+Edit 2: fixed broken links + added to list 
+
+Edit 3: fixed broken gale link
+
+Edit 4: better more diverse library list",vdaysk8,297,42,2025-02-23 12:32:37,https://www.reddit.com/r/learnprogramming/comments/1iw94v0/psa_you_might_be_paying_for_udemy_courses_you_can/
+Has anyone else started taking programming seriously in their mid 20s and got really good at it? ,I've been working for 3 years in QA Engineering and while i do code its mostly restricted to Testcases and Bash/Python Scripts. I do feel its about time i stepped up and did some real dev work but i feel so lost since I'm 25 and previously i never felt I'm that great at programming. It just makes me feel weird how good everyone else i know is. Has anyone else had a similar experience? ,nocash667,282,98,2025-01-05 05:33:33,https://www.reddit.com/r/learnprogramming/comments/1htypd2/has_anyone_else_started_taking_programming/
+I should’ve bit the bullet and learned a language like C first instead of Python. ,"So the reason I say that is I learned some rust and then just jumped to C after deciding to test my hand in embedded.
+
+Now the thing is I had always pushed off learning C after I put 0.1% brain effort into it a couple of years ago and the syntax of the for loops threw my for a loop and nobody gave the (surprisingly simple) execution flow of the for loops so I gave up and went back to learning more python libraries.
+
+Well fast forward to now and I wish I would’ve just bit the bullet and learned C. For the reason that I feel like I just learned programming all over again languages like Python and JavaScript just give you such an abstracted top level view of everything you build these “false narratives” in your head about how things work and treat programming like instructions going in a magic box and giving you what you want l.
+
+So now Ive just been over here unlearning many a many of bad programming practices while I’m learning a whole lot of new ideas.
+
+But the thing is it’s not extremely hard. It just requires you to take things slower and if I would’ve just been a bit more patient back in the day I would probably have had an easier time then than I do now.
+
+So yeah to anyone that’s new I do recommend you try your hand in some compiled language to start off with some stronger fundamentals than I have been left with for 3 years now.
+
+That’s about it, how does anyone else feel about the topic I’m just venting because I wish I hadn’t had Python shoved down my throat by every YouTuber and blogpost and everybody lol. ",FriendofMolly,272,160,2024-08-19 01:26:49,https://www.reddit.com/r/learnprogramming/comments/1evpnd8/i_shouldve_bit_the_bullet_and_learned_a_language/
+What’s the most underrated programming language that’s not getting enough love?,"I keep hearing about Python and JavaScript, but what about the less popular languages? What’s your hidden gem and why do you love it?",imKiLoX,274,403,2024-08-29 14:50:55,https://www.reddit.com/r/learnprogramming/comments/1f44dld/whats_the_most_underrated_programming_language/
+What language exposes you the most to how a computer works?,"Modern high-level language programming (Python or JavaScript) is magic. I never really ""dirtied"" my hands with low level programming in C, Go or Rust. I don't want to be a backend engineer, but this severe lack of low level programming, coupled with no CS background, makes me feel like im less of a coder and more of a supergluer.
+
+I want to know how stuff works so I don't feel so useless when my ORM gives me an error about database drivers or someone mentions a linked list. Or to be able to write a performant backend (i.e. not Python or JS). I feel I am limited in my ability to comprehend those topics as someone that writes Python as they are often delegated to high level tools and libs.
+
+Most of the talk about low level programming nowdays is about Go, Rust, C etc and i'd like to know which of them satisfies my use case the most.",BigBootyBear,276,127,2024-08-10 06:59:57,https://www.reddit.com/r/learnprogramming/comments/1eomt6n/what_language_exposes_you_the_most_to_how_a/
+2 Years In and I can barely Code,"So im my second year in my bsc in comp sci but the main issue is that I can barely code. I've gone thru the main intro python and Java courses and had even taken a required c and assembly course this semester (that I dropped to lighten my workload). The fact is that im almost done my second year and I am barely able to create even the simplest things even in python and am often overwhelmed when I look at assignment starter code or the stuff my classmates do. For most classes I start off understanding the initial material but very quickly fall off the rails and get overwhelmed and confused, often ending up using online help to finish my assignments. It's quite scary knowing that this is the time I should be looking for internships but I know I cant since im barely a computer science student. Not sure if it's some type of learning issue or motivational issue or what. I know I want to learn game design but with the way things are looking right, im not sure if I can anymore. Any help?",slippertoad,267,70,2025-03-03 11:32:54,https://www.reddit.com/r/learnprogramming/comments/1j2gnp4/2_years_in_and_i_can_barely_code/
+"To That One Guy On Nearly Every Thread Who Says ""Just Use Linux"".","I'm quite new to programming (6 months in), learning Python and React. So please I'm just a noob, be nice, I'm being genuine.
+
+As I'm learning, r/learnprogramming has been a big help. However, on so many posts about general topics, there always seems to be *that one guy* that shows up and drops the classic ""*just use Linux"".* That comment always seems to get downvoted to hell as well...
+
+I mostly use Windows but I’m considering dual booting Linux to see what the hype is about. So, I have some questions for those who have switched (or have thought about it but didn’t):
+
+* What makes Linux a better programming environment than Windows or macOS? Are there tools that make it genuinely easier or better? I know that most servers run Linux, so I completely understand why using Linux for server related code makes sense, but is that it?
+* If I’m developing apps for Windows or Mac, what kind of challenges would I face using Linux as my main OS? Would dual booting be enough to avoid issues? Would the programs I'm making even run on Linux?
+* How well do programs like Wine or VMs work for running/debugging Windows or macOS apps on Linux? Re booting every
+* And finally, why is Linux advice so polarizing? Some people swear by it, but others seem to hate when it's brought up.
+
+I’m not looking for a debate, just trying to understand the pros and cons from people who have experience. Would love to hear what you think!
+
+Cheers",TwoLoafsApps,258,261,2025-02-21 04:32:38,https://www.reddit.com/r/learnprogramming/comments/1iuiitr/to_that_one_guy_on_nearly_every_thread_who_says/
+Looking for a programming buddy,"I'm a 22 year old Computer Science ""student"" who is looking for a programming buddy. I have fallen victim of learning for the sake of learning. I have studied for 2 years and I have a basic knowledge of programming and networking. 
+I program with Python and I have a very basic knowledge of c and c++.
+Fyi: I'm a horrible coder and I need to upgrade my algorithmic thinking.
+I'm looking for a buddy or even better a group of buddies so we can study, learn and build projects together.
+Having 1 or 2 people at your side pushing you to get better I believe is a good strategy. Plus , we get to enhance our portfolios ;)
+
+PS 
+Ideally, I would like to hang out with programmers at my own level and with the same aspirations as me.",Loumidis_,249,201,2024-12-04 11:47:53,https://www.reddit.com/r/learnprogramming/comments/1h6e5xu/looking_for_a_programming_buddy/
+"Projects that you can do in C++, but not in Python.","I'm a Python dev for 4+ years and I need to learn C++, and fast. Almost all job ads I've seen require proficiency in C++. I've been going through learncpp.com.
+
+Whenever I come up with a project, my current mentality is that ""ah, fuck it, I'm just going to use Python for this,"" which is not what I should be doing. I need to be restricted. I need to work on something that Python can't do.
+
+""X but much faster"" is not what I have in mind.
+
+Need ideas please.",vardonir,251,54,2025-04-23 12:20:16,https://www.reddit.com/r/learnprogramming/comments/1k5xqyo/projects_that_you_can_do_in_c_but_not_in_python/
+Pseudo-code is harder then actual code,"Hi there, in our university we see a lot of pseudo code
+
+and sometimes we get to see something like this (this is random pseudo-code I found on the internet, but its a nice example of what I have to deal with): [https://imgur.com/a/8g6HahD](https://imgur.com/a/8g6HahD)
+
+How can I even understand this
+
+some thing do make sense like
+
+a1,s2 **←** S
+
+this would be translated in actual code (lets assume its python) like this
+
+a\[1\] = S
+
+a\[2\] = S
+
+but then there are things like
+
+R(si, ai) = 0
+
+what is R suppose to do, is this a function, and why does it have its argument as si (i is not even defined, and we are not in any for loop or anything like this
+
+then there is determine scenario € (as element not Euro) \[1,4\]
+
+what does this part even do, I thought indexes would be denoted inside this pseudo code like: a1 so if you want to tell me you take 5th elemenf of determine scenario I thought u would write it like determine scenario5 (5 in index)
+
+then u have things like this: π\[s1, s2\] = arg\_maxa1, a2
+
+π is a number not an array, so you cannot just take the element from it
+
+or this: p1, p2 **←** P(s'|s, a1, a2)
+
+where did you get s', thats not even defined anywhere and what does | suppose to do, cannot you just write or if you like to use english words (you do in for loop)
+
+also why does this function have a variable (Ω) thats not even used anywhere
+
+also Ω (ohm) cannot be a variable, Ω is symbol like kg or cm
+
+I see a lot of this ind of code during our lectures, what I usualy do is ignore it and try to find a better explanation of an algorithm online, when I need to implement something
+
+Maybe I have some wrong aproach or something, but pseudo-code is suppose to be easier to read (easier for someone to comunicate an algorithm to someone else), but for me its ususaly harder and would rather read actual code (no matter the language), as things in code at least are defined clearly
+
+So can u help me understand pseudo code in general, or why does it have this wierd symbols and aproaches that don't even make sense in real code
+
+Thanks for Anwsering and Best Regards",veso266,246,112,2024-08-31 15:16:50,https://www.reddit.com/r/learnprogramming/comments/1f5pn6q/pseudocode_is_harder_then_actual_code/
+Why can’t I learn programming??,"I’ve been trying to learn how to program for the past two years now and I’m failing to do even the basics. Started off with JavaScript and trying to build a website. I was okay with html and CSS but when it got to JavaScript I just couldn’t learn how to write it. In the past two years I’ve tried python, Java, C and dart. 
+The issue is, I start off by learning the basics like the syntax, functions, OOP but just never get past that. I’ve followed tutorial after tutorial and yet I still feel like I’ve not even scratched the surface of programming. 
+Many recommend doing a project but the issue is whenever I try to create a project, not soon after I hit a dead. I’m just not able to sit there and code by myself. 
+Am I stuck in tutorial hell?
+If you’ve been stuck in tutorial hell, how have you escaped?
+Am I not meant to be a programmer and should I just change my career path?",SprigWater,239,173,2024-12-10 20:41:39,https://www.reddit.com/r/learnprogramming/comments/1hbbpmw/why_cant_i_learn_programming/
+Why Python is popular ,"Could you please explain why Python is so popular? I might be wrong, but Python is a slow interpreted programming language that lags behind many others. Why is it so widely used?
+
+Python has countless libraries for almost any need. But why can't this be done, for example, with C++? Why aren’t there libraries in C++ that allow you to implement complex algorithms with a single function, like in Python? For instance, generating a ready-to-use QR code. And why don’t other programming languages have their own equivalent of pip for convenient library management?
+
+I may be mistaken, but I’m curious: why is Python used so much if it’s a slow language?",Equivalent_West_9831,235,212,2025-01-15 19:31:44,https://www.reddit.com/r/learnprogramming/comments/1i25mkm/why_python_is_popular/
+How do I learn large projects/software development not just programming?,"It seems like resources I use will be teaching a language, like lets say Java/Javascript/Python/etc. and you *may* do some projects. But the ""projects"" ultimately will be like 1-3 files. In the real world I can understand Python and Java to a decent extent, but I'm lost as hell trying to understand anyone's code base because these classes don't teach how people in the real world actually make their projects.
+
+Like for example, you can do a whole class on Javascript, but then you see the code for an actual website and you sit there wondering why are the folders structured like this? How do I know how to structure mine? What are these other weird files for dependencies or docker stuff or Maven/Gradle/whatever other stuff? What are models/views/controllers? etc. (I know some of this stuff but these are rhetorical questions).
+
+Basically I'm wondering if there are resources for learning not just how to read or write a file written in X language, but how to do *projects* that have all the stuff that real projects have with tests and dependencies and dockerfiles and whatever else.
+
+I know common advice is ""just make a project"", but I don't have any idea if a project I make looks like what a professional project *should* look like if there aren't resources explaining that. I could make random folder structures and put random files in there but that won't really teach me anything.",LigmaYams,230,53,2025-02-13 20:15:28,https://www.reddit.com/r/learnprogramming/comments/1iose7k/how_do_i_learn_large_projectssoftware_development/
+Free Python Classes: Stanford University Code In Place 2025,"You can learn Python FREE, VIRTUAL, through Stanford's Code In Place
+
+I am a Stanford University Code in Place Ambassador (volunteer) and a 2024 Cohort graduate focusing on getting my Masters in Computer Science.
+
+Have you asked yourself these questions:  
+\- Have you ever wanted to learn how to code but didn’t know where to start?   
+\- Are you super green?   
+\- Have you been curious?   
+\- Are you a high school student and just want to have something on your resume or college app to stand out?   
+\- Do you want to try new things?   
+\- Want to create a fun project for your portfolio?   
+\- Did you want to try a Python class but didn't want pay for the class only to find out you don't like it?   
+\- Are you a career changer looking for a more exciting career?  
+\- Are you interested in computer science, machine learning, and/or LLM's?  
+If you answered yes, this post is for you.
+
+Stanford University’s Code In Place is an amazing FREE, VIRTUAL, and GLOBAL program for those interested in coding. It introduces beginners to Python through an engaging and interactive online course which is based on the popular Stanford University CS106A course.
+
+The course runs for 6 weeks from April 21 to May 31, 2025.
+
+You'll learn programming fundamentals from passionate professors, volunteer instructors, and TA's while working on exciting projects that make coding fun and accessible. These projects will be great for your portfolio.
+
+No prior experience is needed. Just bring yourself, your curiosity and a willingness to learn :) Ages 16 and up.
+
+What makes Code In Place special is the incredible community all of ages and walk of life. You're not just taking a course but you’re joining thousands of learners from around the world who support and inspire each other.
+
+Whether you're a complete beginner or refreshing your skills, you’ll get hands-on practice, build cool projects, and experience the joy of problem-solving together. As a Code In Place Ambassador, I highly recommend this program for anyone interested in coding!
+
+So yes, please, Join Code In Place 2025 & Learn to Code with Stanford! It's absolutely free. It's virtual, so need to leave your home. You can take classes in the comfort of your own home in your PJ's. Once accepted, schedules will be sent out. You select the schedule and time that works for you: mornings, nights, weekends, etc.
+
+Are you ready to start your journey? Sign up now through my referral link. Yes, they actually keep a count. LOL. So, please help me out and join through my link:
+
+[https://codeinplace.stanford.edu/public/join/cip5?r=ambassador17](https://codeinplace.stanford.edu/public/join/cip5?r=ambassador17)
+
+Join Code In Place 2025 and be part of something amazing!
+
+The application deadline for Stanford University's Code in Place 2025 is April 9, 2025, at 11:59 PM. The course runs from April 21 to May 31, 2025.
+
+This free 6 week bootcamp has change my life. Now, I am switching my career to become a software engineer. I was a chemistry major. The plan is now to get a Master's in CS: software engineering from Stanford since I already had a BS in chemistry. I am happy to discuss my career change and how I am working my way to get a Master's in CS from Stanford.
+
+Here is the project I created from the Code In Place 2024 Cohort as a newb!  
+[https://codeinplace.stanford.edu/cip4/share/FmscgxP6CFf8o3Agi68y](https://codeinplace.stanford.edu/cip4/share/FmscgxP6CFf8o3Agi68y)
+
+Note: Please allow yourself a few days to do the application. You have to read and do a few problem challenges. It's fun and easy but for novices, you may not be able to complete it in one day. I am happy to help you with this as well.
+
+Feel free to comment or message me with your questions. I am happy to answer them.
+
+Happy Python Learning 🧑‍💻  
+Your Code In Place Ambassador",Friendly-Example-701,223,109,2025-03-28 23:43:28,https://www.reddit.com/r/learnprogramming/comments/1jm94f5/free_python_classes_stanford_university_code_in/
+When your own code bans you from your PC - The beginner's mistake,"*A beginner's story for beginners! Some time ago, I wanted to go too fast with programming... The result? My own computer literally kicked me out! This isn't a guide, or a help, just a funny story to share so that I don't feel alone any more and also to pass on a little message to you.*
+
+Let me explain:
+
+I've created a **Python code** that checks whether a USB stick is plugged in and contains a specific folder? If it isn't, my computer automatically locks! Brilliant, isn't it?
+
+Well, not really. In reality, this program simply checks for the presence of any USB stick! So it's very easy to copy the file I'd created (and here's my second mistake: the programme only checks the name of the file, not its contents).
+
+Anyway, I've installed a few extensions to Python, so that my code can run on the Windows environment. I save my file and after a few manipulations, I transform the whole thing into an executable  and so that my programme launches automatically when my PC starts up, I create a shortcut which I place in the ""startup folder"". **Wonderful!**
+
+Confident, I restart my PC, don't enter the USB key, and everything goes as planned: my computer locks. I tried a second time. I put in the USB key, restarted... and BAM! My own software locks my computer. I tried again, but nothing happened. My computer had decided that I wasn't fit to use it.
+
+So I force my computer to shut down. Three times in a row, because once isn't enough to really traumatise the hard drive. Finally, I found myself in repair mode. I open the terminal in super hacker mode, I look for the file responsible for this mess... And then, problem: *I can't remember the name of the file*. This just gets better and better!
+
+I dig! One file, then another... Total failure. I'm in the middle of an existential crisis.
+
+So I say to myself: ‘OK, OK, I'll look in the start-up folder, where all my autostart stuff is. Sure enough, it must be there. I go straight in... And there I find a shortcut. Not the executable. Just one. *Simple. Shortcut.* 
+
+(I'm writing these lines after sharing this anecdote: according to the comments I've read, I could simply have deleted the shortcut in the startup folder. No more link with the executable, problem solved! But NO! Instead, I decided to make things more complicated for myself. There are times like this when my brain decides to switch to energy-saving mode...)
+
+And then after a while, eureka! I remember that the executable is in ‘**Program Files**’! I run (well, in a manner of speaking, I only have a keyboard), I go there in command prompt mode, I display the files with the ""dir"" command... And then, disaster: **EVERYTHING** is displayed. Basically, I thought it was just the folders in ""Program Files"" but NO! All the files are displayed one by one. I can't see myself leafing through them all. I kindly ask the computer to show me just the .exe files... It replies:
+
+""Screw you !.""
+
+I turn the computer off and on again... I did three more forced shutdowns. At this point, my PC hates me.
+
+This time I go to the restart options and I'm presented with a whole host of functions, including ‘Restart in Safe Mode with Command Prompt’. **Bingo!** Well, no...it's taking me too long (apparently) to make up my mind, and once again my computer makes it clear that it wants to give me a hard time today and shuts down. I start the same process again. I quickly choose the right option. My PC reboots and I get the impression that the cmd presented to me is more recent.
+
+I do the same thing again, go to the ""Program Files"", use the command to display the folders and...**MIRACLE!** They're just folders, so I find one that looks like mine! I go into it and am happy to exterminate the executable.
+
+I close the cmd, restart the computer, pray to all the computer gods, and start making incantations in Latin... And miracle! It works, my PC doesn't lock any more!
+
+At that moment, I looked at my screen, took a deep breath and said to myself:
+
+""*OK... Now you go back to your beginners' course in Python. And stop being a scientist.""*
+
+And a little info: to write my code I made a mix of examples I'd found on the internet and didn't understand half of what was written.
+
+All that to say, when learning a programming language (and not just one), remember that it's very important not to skip any steps. I'll be honest with you: you're bound to go through a period of emptiness at some point. You think you're not making **fast enough** progress, that programming is too complex for you. You want to get straight to the final programming boss without having the weapons to beat him. The result: you get beaten, and you feel even more frustrated.
+
+That's why it's important to have the basics, the fundamentals of a language, so that you can then flourish in program creation, and not remain at the simple stage of the ‘script kiddie’ who installs software he doesn't even understand how it works and soft-locks himself (...that's a clear reference to my story there!).
+
+I'm writing all this down, but at the moment I'm also going through this period of great emptiness, I'm also a beginner, which is why I want to give my beginner's opinion for beginners.
+
+That's all there is to it! The sight of this huge chunk of explanation has probably startled you, and I'm sorry about that! 😅
+
+I hope I've been able to put a smile on your face, and perhaps the key to getting you back into programming.
+
+Maybe we'll meet again in another post where I **beg** one of the nice users of this subreddit, because I've been playing the sorcerer's apprentice on my computer again, or simply if I want to share another anecdote with you!
+
+Until next time!
+
+PS : I'm sorry if at times the text seems strange. I'm not originally English, I'm a baguette man! 🇫🇷",Messire-VHS,218,33,2025-02-16 20:40:30,https://www.reddit.com/r/learnprogramming/comments/1ir1zqh/when_your_own_code_bans_you_from_your_pc_the/
+How to learn programming more efficiently,"I'm a second-year IT student, and I've been having some trouble learning how to code because I tend to forget things easily.
+
+Right now, I'm focusing on Python, HTML, CSS, and JavaScript since I'm really interested in web development. Could you give me some tips or strategies to learn programming more efficiently and retain what I learn better? Also, what other languages or technologies related to web development do you sudgest that I should consider learning? ",Ok_Sea6229,217,30,2025-01-25 23:24:25,https://www.reddit.com/r/learnprogramming/comments/1ia02u9/how_to_learn_programming_more_efficiently/
+"At age 38, can I realistically learn a language well enough on my own to get a decent job?","EDIT: I SHOULD REPHRASE MY QUESTION:  Is it worth my time to learn coding basics to spice up my resume?  Something to maybe stand out for jobs Im already qualified for among the hundreds of other people with basic CRM, computer, and customer service skills, to maybe get a job that pays 60-70K rather than 45
+
+So, to be clear, I'm not looking to land a 250K job at Apple or anything, I'm just tired of making 45K a year as a customer order specialist, and try as I might I just can't seem to break 50K - got laid off from my last job, and right back to where I started.
+
+Anyway, I was thinking about learning python.  I have a fake associate's degree in computer science from ITT tech, slightly technical background I've configured cisco routers, set up windows servers with active directory, all s short life time ago of course, but I think I have a solid foundation
+
+\- If i studied for a few years, would anyone hire me?",ChAdmiralAckbar,204,197,2025-02-12 01:15:32,https://www.reddit.com/r/learnprogramming/comments/1inf2ml/at_age_38_can_i_realistically_learn_a_language/
+I landed my first job as firmware programmer by self teaching.,"Yeah, I've been into programming since 12yo.
+My path was HTML/CSS (a little JS) => Java => C/C++. And some alongside languages: Python, Assembly (x86 mostly), Lua, PHP and some others that I almost did not use (like Bash, Nim, Zig).
+
+It needs to be said, that knowledge of English is OP, it gives a great fluency at whatever you're doing with coding. And YouTube is superior when you want to learn something quickly.
+
+I first got into internship by a company that looked for 3+ year students. I tricked a bit, because I took a year off due to bad grades. So I told I was ending my second year in uni, but my low-level knowledge was so good that I crushed the technical interview. I am so certain because the questions were about the stuff we weren't supposed to learn in my uni.
+
+This happened at summer of 2023. So yeah, juniors still seem to exist and AI isn't everywhere yet. I'll be glad to answer any questions you have)
+
+Update: many asked about what to learn and how long to do this? If you have time, I suggest you learn various languages across multiple topics. From trying webdev, Minecraft modding, gamedev and other stuff, I've learnt that I love low-level programming and graphics (shading languages, Vulkan/GL).
+
+As for time, you may just compare your knowledge of area with vacancy requirements. If you match most of them, then you should try applying for the job.
+
+If you don't have much time to choose, then here's my list:
+1. Python/JS if you're enthusiast, who wants to make small programs for himself. IoT, Arduino and everything around.
+2. Kotlin/Swift for Android/iOS respectively. If you want to make smartphone applications, there's not much of a choice, take one of these, and it's gonna be both interesting and pleasing (from a programmer view).
+3. Frontend. That's what runs/shows when you open a webpage and even some desktop/phone apps. HTML/CSS is a must and are unlikely to become deprecated in the foreseeable future. JavaScript as well.
+4. Backend. That what server behind your webpage does. A lot of languages to choose from, try some of them.
+5. Gamedev: any language you like slowly transitioning to C# or C++. A lot of game frameworks exists and you can try anything. Godot (Godot Script) is a solid start. But if you're into industrial gamedev, then you stick to what runs best/most popular game engines, which are Unreal and Unity.
+6. Graphics programming. My favorite. Not many of youbreaders will find it interesting, but if you just like writing shaders, various videoeffects and computer graphics in general, then Vulkan might be for you. It is a library, however, so you mix it with C/C++/Rust implementation/binding. GLSL or HLSL should both be good, however I only know GLSL so cant say for sure.
+If you find Vulkan hard, try OpenGL first, but be warned that it started to die out. Metal is Apple's proprietary and not recommended, unless you WANT to familiarize yourself with Mac, iPhone graphics. DirectX is the same idea. You better choose DirectX instead of Metal, just because it runs on Xbox an Windows and is at least emulated on Linux. But Vulkan is everywhere, from mobile to desktops (even Macs).",ProfessionalUse4776,203,35,2025-01-07 17:07:16,https://www.reddit.com/r/learnprogramming/comments/1hvw7ld/i_landed_my_first_job_as_firmware_programmer_by/
+Was dynamic typing a mistake?,"Languages like JavaScript and Python are popular for being dynamically typed, but over time, both have evolved to include static typing features. JavaScript has TypeScript and a complex ecosystem of linters, bundlers, and supersets. Python has `typing`, `mypy`, and keeps adding more static type features, like recent syntax support for generics.
+
+If every dynamically typed language ends up adding static typing or building entire ecosystems to make up for it, was dynamic typing a mistake to begin with? Why have it as a feature if it ends up being hacked back into the langauge with the unecessary overhead of linters, bundlers and transcompilers?",BigBootyBear,197,195,2024-10-11 11:51:15,https://www.reddit.com/r/learnprogramming/comments/1g17xb6/was_dynamic_typing_a_mistake/
+I Will Teach You How To Code,"**Edit: There were a lot of responses, so I'm going to do a weekly group session on Thursdays, starting this Thursday. If you are interested fill out this google form so I can get your email and I'll send you an invite:** [**https://forms.gle/bQghTHevtnRrzVBt7**](https://forms.gle/bQghTHevtnRrzVBt7)
+
+Hello fellow coders,
+
+I love to code and to teach others how to code. I used to teach python while I was in college and it was very fulfilling, so I want to teach it again. I'm currently a software engineer at Microsoft and have been programming for about 10 years.
+
+I built a course, that we will go over together.
+
+Each lesson you will learn a fundamental component of programming (loops, if statements, variables, ...), then build a game to solidify the concept (hangman, snake, text adventure).
+
+I'm only looking for one student, to meet once a week, for about an hour, it will be completely free. I'm based in Redmond WA if you are in person, but I can also do virtual lessons.
+
+You will learn a lot and have fun doing it.
+
+Please message me if you are interested.
+
+Also this is a beginner course, so if you have never touched any code, that is totally alright.",geosnake7,196,77,2024-08-12 02:36:31,https://www.reddit.com/r/learnprogramming/comments/1eq2m2n/i_will_teach_you_how_to_code/
+What are the basics of every programming language?,"So this question isn't so much for me as it is for my brother. I'm not an amazing programmer myself. I did a year in a Web Tech degree that I dropped out of and programmed in Python and Java, with additional self-taught experience in R, Lua, and JavaScript, but not very much. 
+
+I'm trying to give my brother a list of basic things that most if not all programming languages should possess and ought to be memorised within a programming language (as opposed to niche information which can be googled whenever you require), is there such information worth memorising?  
+  
+For instance, my current list of things (in no particular order) looks like this: 
+
+* How to initialise variables
+* Arithmetic operators
+* Print statement
+* Loops (numeric, for-each, and while
+* Conditional (if, if-else, else)
+* Functions
+* Error Handling
+* Import statement
+
+Is this a good list? Can someone get their foot in the door in a given programming language with these simple programming concepts? Are there any additions to this list that I could make to show my brother? He's already pretty good at computer hardware (a subject where I fall short)",corjon_bleu,201,83,2024-04-30 05:34:38,https://www.reddit.com/r/learnprogramming/comments/1cgl7df/what_are_the_basics_of_every_programming_language/
+Why are libraries sometimes called “APIs”?,"I was working my way through a Python course recently that introduced me to the PIL image manipulation library. The instructor, who teaches at a major research university, referred to this Python library as an API.
+
+He didn’t provide any explanation for this nomenclature, so I was pretty confused. Up until this point, I thought APIs were web services that software programs can query for data and then receive that data in a format like JSON. Do I not really understand what an API is?
+
+Many thanks in advance!",Zosima93,198,48,2024-07-15 14:11:18,https://www.reddit.com/r/learnprogramming/comments/1e3vrfb/why_are_libraries_sometimes_called_apis/
+Stop asking “How long to learn x”. ,"Everything you want to learn does not have a predetermined set amount of time to learn it. I struggled with learning how to use decorators in Python, where others picked it up in a fraction of the time. Your ability to learn and your goal will tell you how long it will take. 
+
+You need to ask yourself “what do I already know”, “how committed am I to learning this”, and “why do I want to learn this”. Learning programming is hard, and trying to short cut it will never work the way you want it to. 
+
+Whenever I see questions that are asking “how long…”, I automatically assume the person is trying to find the quickest path to accomplish something and in the real world, short cuts are for the developers who have experience. If you understand something so extensively, then you start looking for short cuts, not when you have none. ",LookMomImLearning,196,45,2024-12-21 17:53:19,https://www.reddit.com/r/learnprogramming/comments/1hjf4rr/stop_asking_how_long_to_learn_x/
+What Programming Language Do Cybersecurity Jobs Use the Most?,"I am starting to learn cybersecurity and I want to know the languages to prioritize the most? I've looked around and I'm seeing mostly Python and other languages I'm entirely new to, like Bash. But I've come here to make sure.",VanjerBrain,194,64,2024-07-31 22:35:47,https://www.reddit.com/r/learnprogramming/comments/1eh0lly/what_programming_language_do_cybersecurity_jobs/
+"Advice: Stop obsessing over languages, they are tools, choose the right one for the job.","I keep seeing posts where people are obsessing over which language is best or which to choose. If this is you, you are focusing on the wrong thing.
+
+I feel like a big milestone in a developers career is when they finally realize that a language is just a tool. At the end of the day it's all 1s and 0s dancing over a silicon wafer. Languages have different features, sit at different levels of abstraction, have different tooling, support, and are better suited for some jobs. There is no one single best language, just different languages that are better suited for different jobs.
+
+You should choose the best tools for the job. Take a look at the project you 2ant to complete, identity the requirements and any potential bottlenecks, then go looking for the tools that match.
+
+This doesn't mean squeezing out every last drop of performance either. You can sacrifice some performance for things like better tooling, how is the community support, can you find devs and of course personal preference. Like the debate between C# and Java is pretty much only about preference anymore.
+
+If you are starting out, don't focus on languages. Focus on things like design patterns, software architecture and data structures. These concepts are universal and are often neglected by developers, but they will make you stand out. Try different things and learn the differences, expose yourself to different ideas.
+
+If you are just starting out and need to at least choose something to start with, just pick something with good support: Python, JavaScript, C#, C. Choose one of the first two if you want to do a lot quickly, choose one of the last two if you want a deeper understanding and a more solid foundation.",zdxqvr,192,42,2025-02-14 14:12:44,https://www.reddit.com/r/learnprogramming/comments/1ipbfr9/advice_stop_obsessing_over_languages_they_are/
+Went back to school at 39 for CS while working full time but...,"Now I have no time to learn programming. I'm literally taking one class (a pre requisite to get into the CS program) Pre-Calculus, and it's taking up all my available time because I never took algebra and it's been 12 years since I've been in school. 
+
+Up til this summer, I had a pretty good grasp of Python and was making a lot of progress, especially when I took my first class Intro to Computer Programming in Python over the summer, but now with Pre-Calculus, I haven't touched VS Code because I've had to focus all my energy into learning Pre Calc. 
+
+It's a bit of a dilemma. I wouldn't consider it much of big deal if I wasn't closing in on 40. Would appreciate any helpful feedback/thoughts/opinions. ",forhisglory85,193,96,2024-10-15 19:49:17,https://www.reddit.com/r/learnprogramming/comments/1g4gmde/went_back_to_school_at_39_for_cs_while_working/
+"When should I confidently say ""Yeah, I can full stack for you"" ?","Full Stack fascinates me. The fact that I am control of a fort and if my employer asks me ""The gate needs to be changed"", I am ""fully"" in control of how the gate is changed. These are my skills:
+
+Front-end: JS, HTML, CSS
+
+Back-end: Python and Ruby (I dont think Node qualifies as backend?)
+
+Databases: MySQL, MariaDB, NoSQL and MongoDB.
+
+
+
+During my studies, we had courses which used all of these languages, I am not an expert in them, but I think I can write in each one of them. The problem is not me de-rusting all of these skills, but its that I have no knowledge on connecting them. When I say ""connect"" I mean pulling data from database and displaying it on the frontend, that might be easy but think about the more difficult things.
+
+My question to Full Stack devs here is, what did you do to learn to connect everything? For me I learnt JS and Python to an extreme because of summer jobs, but I fear of getting employed as a Full Stack but not really having the knowledge.",Crazy-Raisin-5660,186,118,2024-05-17 17:59:21,https://www.reddit.com/r/learnprogramming/comments/1cubunx/when_should_i_confidently_say_yeah_i_can_full/
+How do i make Programming fun and my addiction  ,"hello there this may sound idoitic but for some reason i am not finding programming engaging and im getting lazy over it. I have good knowledge over some of the programming language like C++,C, python and little bit in java. so can you suggest me to make programming more addicting for me i want to make it my addiction..   ",PhewSucks,178,68,2024-12-03 10:34:32,https://www.reddit.com/r/learnprogramming/comments/1h5kjid/how_do_i_make_programming_fun_and_my_addiction/
+I am so confused with how to learn coding,"I've been looking at reddit, youtube, different coding camps, friends and family, and i still have no idea how to start coding. Some people tell me to start with python, others say its too hard and i should learn the c languages first. Now people are saying to learn assembly which i tried to but still have 0 clue what that even is. Im a high schooler and both me and my parents have no money so we can't just hire a tutor or pay for subscriptions so im just really stuck on what to do. I love programming and computer science but it can feel really unmotivating when i can't even get started. Does anyone have any tips for me or could tell me how they started?",Wasted_programmer5,176,141,2024-07-16 02:42:49,https://www.reddit.com/r/learnprogramming/comments/1e4dp36/i_am_so_confused_with_how_to_learn_coding/
+Just wrote my very first Python program!,"Today I ran my very first line of Python code:
+
+    print(""Hello World!"")
+
+It feels great to see that output on screen. it’s the first step on a journey toward building more complex scripts, automations, and eventually AI models.
+
+I still don't know what I have to do but for now, I have to learn Python! 😅",Harshvdev,177,62,2025-04-20 15:34:00,https://www.reddit.com/r/learnprogramming/comments/1k3p6z6/just_wrote_my_very_first_python_program/
+Python is awesome but…,"Speaking from my perspective, Python is an awesome language which is closer to human language and has a bunch of great and useful libraries that ease coding. However, I think it shouldn’t be the first language for a programmer to begin his learning with. 
+
+I think a programmer should start with languages like C for example . C language helps understanding fundamentals as C is a low-level programming language that provides a strong foundation in computer science concepts like memory management, pointers, and data structures. Understanding these concepts helps you become a better programmer overall and makes it easier to grasp higher-level languages like Python.
+
+And overall, it’ll develop your problem solving skills and computer resources management, which are important in programming.",WaseemHH,168,163,2024-06-09 02:07:32,https://www.reddit.com/r/learnprogramming/comments/1dbivem/python_is_awesome_but/
+I might not be cut out for programming. But I hate to think I'm not.,"Hey guys. This is both a post to share my experience, and to seek advice. For context, I have been trying to learn how to code since 2020 after hearing a story about, how a bank manager went from showing a higher up how their inventory worked, to being taking to a room full of developers to explain to them the system to turn it into a program, to becoming one yourself. I have had mentors, I talked with other developers once in a while, I have taken courses on Udemy, Codecademy, FreeCodeCamp, YouTube tutorials, 100devs, and sometimes on LinkedIn Learning. I read books and also practiced doing coding while doing all this. I thought I would be fine once I finished the CS50 Python course, finished a few courses on HTML, CSS, JavaScript, and I figured I would be doing better. But I have been doing this all by myself. I did get outside help, but mainly it's just me with this. And no matter what, I just never felt like I could apply what I was learning because I never understood it when applying it. I would stop for a bit, then suddenly I felt like I had to start a new course again, just to get motivated again.   
+  
+There was a personal event that happened to me last year, and I have not had the motivation to code on the side at all. I tried 100devs and I felt good for a few months. Enjoyed getting into the community, and was enjoying what I was learning. But after work, or on the weekends, the last thing I wanted to do when I turned the computer on was to code. I have been trying for 5 years to pivot from my sort-of development job, to like an actual software engineer. But it hasn't been happening, and I don't know what to think or do. I feel like I have given it so many chances with purchases, subscriptions, IDE licenses, and I do like programming, but I am not sure if this is something for my future anymore.   
+  
+So my question or, advice I seek is, should I just stop? Is there something that can maybe get me to a better attitude towards doing this on my free time? Is there something I am missing from this, or I maybe just need to start looking into something else? I have been doing 3D designing courses to learn Blender instead and, I have been finding that to be more fulfilling as I am taking a small break from this. But, maybe that's a sign, that doing this just isn't for me?   
+  
+Any advice is appreciated. Thanks.  ",fico23,169,56,2025-04-04 22:34:52,https://www.reddit.com/r/learnprogramming/comments/1jrop64/i_might_not_be_cut_out_for_programming_but_i_hate/
+How do you guys deal with the feeling of getting whole day wasted trying to get something to work and fail to do it?,"Today I spent my whole day trying to get \`torch export AOTInductor\` to work in non-python environment (C++). And, I couldn't make it work!
+
+It's fine, but, I feel like, I wasted my whole day doing nothing. I did explored the pytorch compiled documentation to fullest, but, still couldn't make it work. 
+
+I've to work on multiple not so beginner projects to get myself some opportunities. I've taken a lot of time, and still lagging. This wasted day is giving me more headaches.
+
+  
+It's not the first time, but really interested in knowing, how others deal with it.",Dark-Matter79,163,79,2024-11-19 17:36:57,https://www.reddit.com/r/learnprogramming/comments/1gv2w25/how_do_you_guys_deal_with_the_feeling_of_getting/
+Python is so easy its confusing,"I've been learning Python for a programming assessment for a role I'm aiming for, and I've found myself mesmerized by how easy it seems compared to my primary language, Java, in a way that's hard to put into words.
+
+Some of the things that stand out to me are:
+
+1. No need to specify data types.
+2. We just use a colon \`:\` to define the body of functions.
+3. There's no need to deal with a lot of jargon when creating functions, like choosing access modifiers or deciding if a function will return a value or not.
+4. I don’t have to write ""public static void"" every time I create a new file in VS Code.
+5. The syntax is so easy to read that it feels like I'm reading a textbook.
+6. Strings function like arrays... what's up with that??
+7. Have you ever tried to run a simple ""Hello World"" program in a Java IDE or text editor and noticed the time it takes to compile? Python feels like it compiles and runs almost instantly.
+8. Python reads the code line by line. With Java, if there's a single error, the program won't run at all. But in Python, it continues to execute until it reaches the error, which makes finding errors much easier.
+9. Everything seems to happen on the same page. With Java (or maybe it's just me), I create every method outside the main method, which makes it confusing to keep track of them all.
+
+It feels so cool programming in Python that I’m honestly a little scared. It feels like I’m in the honeymoon phase, where I’m just waiting to discover the one thing that will make me hate Python. What do you think?
+
+  
+edit: After extensively reading the replies I've come to understand that maybe java is definitely still better, I will just take the advice someone wrote here and use python as pseudocode.",Specific_Ant580,163,110,2024-09-13 09:40:51,https://www.reddit.com/r/learnprogramming/comments/1ffqpfh/python_is_so_easy_its_confusing/
+How does random work?? ,"I know this might seem like an incredibly stupid question, but how could a machine that takes orders of ""1"" as True and ""0"" as False be able to choose something random in its own, I've tried thinking about it for a long time and couldn't figure out how randomizing works (eg. Python random)",TheKingofStupidness,161,65,2024-07-23 14:40:21,https://www.reddit.com/r/learnprogramming/comments/1ea9i7s/how_does_random_work/
+I need to practice coding on real life projects,"Hey Reddit 👋🏻
+
+I have been learning HTML/CSS/Javascript and React as well as Python the last couple of months. And while I made good progress on the fundamentals (variables, functions, classes, etc.), I am still lacking the skill to build an app from start to finish. 
+
+I was wondering if you could recommend some projects or courses to build that we help me get there faster? 
+
+I would really appreciate your input/ideas!
+
+Best!",MrJokler,165,51,2025-02-25 07:21:16,https://www.reddit.com/r/learnprogramming/comments/1ixpcng/i_need_to_practice_coding_on_real_life_projects/
+This time I'll crack the Google (or FAANG) interview,"Day 0 of #100DaysOfCode starting again, this time I'll crack the Google (or FAANG) interview.
+Prepared my workspace with vs code and python (main), java, javascript (secondary), node, etc. Will I be able to complete it in 100 days?",cruelyf,160,58,2025-04-21 17:10:02,https://www.reddit.com/r/learnprogramming/comments/1k4iqmm/this_time_ill_crack_the_google_or_faang_interview/
+How do I actually learn to become a software engineer,"This has been bugging me since last week when I started taking my programming seriously. Now I don't know how and where to start in order to become a soft eng.
+
+The issue is I know some basics of coding in vbasic, c#, java, and python, and a little bit of oop(not the intermediate or advanced level) but I don't know- how do I put this... I pretty much don't know how to develop fully functional and secure softwares with them. Like, I don't know how to connect a server or database(MS SQL, MySQL, SQLite, etc..) to my project, I don't know how to make an app with a database that runs locally(offline) on any device it is installed to. I don't know also how to make a secure online software.
+
+I also know little to nothing about Git, DevOps, and API
+
+And that typescript, node.js, next.js, and those frameworks like .NET, ASP or something(idk what that even is) and react. Like, I searched them up so I know them by definition but I just can't seem to understand how they work, what are their requirements, what makes them work, how important are they, and why they're so sought after.
+
+I need help guys, do you have some kind of tutorial or guide(videos, books, or sites) that explains these kinds of things??",En-ryu_18,164,45,2024-09-03 16:26:45,https://www.reddit.com/r/learnprogramming/comments/1f849k1/how_do_i_actually_learn_to_become_a_software/
+"Had a coding interview, the recruiter barely said my code quality was bad. Not sure what to take away. Brutal honesty is appreciated too.","So I recently applies for an AI Engineer intern role. The recruiter and I first had a small meet and greet. Then I was shared this problem statement.
+
+# Problem Statement
+
+Design and implement two API endpoints using a Python backend framework of yoru choice (e.g. FastAPI, Litestar, Flask, etc.) that automate the process of ranking resumes based on job descriptions. Your APIs should be documented with Swagger or similar.
+
+This assessment evaluates your ability to handle text extraction, data processing, and structured outputs through REST APIs.
+
+# Task 1: Extract Ranking Criteria from Job Description
+
+**Description:**  
+Develop an API endpoint that accepts a job description file (PDF or DOCX), extracts key ranking criteria, and returns a structured JSON response. Feel free to use any LLM of your choice, including OpenAI, Gemini, Claude, Grok, or locally run models.
+
+You may use any publicly available job description for testing, but we have provided one here for you convenience.
+
+**API Endpoint:**
+
+    POST /extract-criteria
+    
+
+**Input Payload Example (Multipart Form-Data):**
+
+    {
+      ""file"": ""<uploaded_job_description.pdf>""
+    }
+
+**Output Payload Example:**
+
+    {
+      ""criteria"": [
+        ""Must have certification XYZ"",
+        ""5+ years of experience in Python development"",
+        ""Strong background in Machine Learning""
+      ]
+    }
+
+  
+**Requirements for Task 1:**
+
+* Use FastAPI or Flask.
+* Avoid using LangChain, prefer OpenAI SDK, LiteLLM or Google google-genai SDK.
+* Extract text from the provided file.
+* Identify key ranking criteria such as skills, certifications, experience, and qualifications.
+* Ensure the system works with different ranking criteria provided by the user.
+* Return structured JSON output as a list of strings for each extracted criterion.
+* Implement Swagger UI with clear documentation for this endpoint.
+
+# Task 2: Score Resumes Against Extracted Criteria
+
+**Description:**  
+Develop an API endpoint that accepts ranking criteria and multiple resumes (PDF or DOCX), processes the resumes, scores them based on the given criteria, and returns an Excel or CSV sheet containing each candidate's score. You may use any publicly available resumes for testing. Feel free to use any LLM of your choice, including OpenAI, Gemini, Claude, Grok, or locally run models.
+
+You may use any publicly available resumes for testing, including your own resume.
+
+**API Endpoint:**
+
+    POST /score-resumes
+    
+
+**Input Payload Example (Multipart Form-Data):**
+
+    {
+      ""criteria"": [
+        ""Must have certification XYZ"",
+        ""5+ years of experience in Python development"",
+        ""Strong background in Machine Learning""
+      ],
+      ""files"": [
+        ""<uploaded_resume_1.pdf>"",
+        ""<uploaded_resume_2.docx>"",
+        ""<uploaded_resume_3.pdf>""
+      ]
+    }
+
+**Output Payload Example (Excel or CSV Sheet):**
+
+|Candidate Name|Certification XYZ|Python Experience|Machine Learning|Total Score|
+|:-|:-|:-|:-|:-|
+|John Doe|5|4|4|13|
+|Jane Smith|4|3|5|12|
+|Alan Brown|3|5|4|12|
+
+**Requirements for Task 2:**
+
+* Use FastAPI or Flask.
+* Accept extracted criteria as a list of strings.
+* Support bulk upload of multiple resumes in PDF or DOCX formats.
+* Extract text from each resume file.
+* Match text against the provided ranking criteria.
+* Assign scores based on the presence and relevance of each criterion (0-5 scale).
+* Generate and return an Excel or CSV sheet with the candidate's name, individual scores for each criterion, and total scores.
+* Implement Swagger UI with clear documentation for this endpoint.
+
+# Additional Deliverables:
+
+* **Swagger UI Documentation:** Each endpoint must be clearly documented using Swagger UI, including example inputs and expected outputs.
+* **Video Demo:** Provide a short loop or unpublish youtube video (5-10 minutes) explaining your process, the architecture, key code sections, and how you built the solution, and a working demo in 5 mins
+* **Public GitHub Repository:** The solution must be submitted as a public GitHub project, including a well-structured README with setup instructions, usage details, and contribution guidelines.
+
+  
+**Additional Deliverables:**
+
+* **Swagger UI Documentation:** Each endpoint must be clearly documented using Swagger UI, including example inputs and expected outputs.
+* **Video Demo:** Provide a short loop or unpublish youtube video (5-10 minutes) explaining your process, the architecture, key code sections, and how you built the solution, and a working demo in 5 mins
+* **Public GitHub Repository:** The solution must be submitted as a public GitHub project, including a well-structured README with setup instructions, usage details, and contribution guidelines.
+
+
+
+For this problem statement, my code was as below 
+
+    from fastapi import FastAPI, File, UploadFile, HTTPException, Depends, Body , Form
+    from fastapi.middleware.cors import CORSMiddleware
+    from fastapi.responses import StreamingResponse
+    from openai import OpenAI
+    from typing import List
+    import textract
+    import json
+    import os 
+    from dotenv import load_dotenv
+    from pydantic import BaseModel , validator
+    # from IPython.display import display , Markdown
+    import pandas as pd
+    import io
+    import glob
+    
+    load_dotenv()
+    
+    app = FastAPI()
+    # OpenAI API Key setup
+    api_key = os.getenv(""OPEN_AI_API"")
+    client = OpenAI(api_key = api_key)
+    
+    # Configure CORS
+    app.add_middleware(
+        CORSMiddleware,
+        allow_origins=[""*""],  # Allows all origins
+        allow_credentials=True,
+        allow_methods=[""*""],  # Allows all methods
+        allow_headers=[""*""],  # Allows all headers
+    )
+    
+    # Clearing the files stored for processing 
+    def clear_tempfiles(directory:str)-> None:
+      """"""Deletes all the temporary files saved in the 
+      """"""
+      # Checking if the directory exists
+      if not os.path.exists(directory):
+        print(f""Directory {directory} does not exist."")
+        return
+    
+      # goes through all the files in the directory
+      files = glob.glob(os.path.join(directory, '*'))
+      for file in files:
+        try:
+          os.remove(file)
+          print(f""Deleted {file}"")
+        except Exception as e:
+          print(f""Error deleting {file}: {str(e)}"")
+    
+    # Saves the file temporarily to be processed or extracted
+    async def save_tempfile(file: UploadFile) -> None:
+      """"""File is saved to extract or process it later
+    
+      Args:
+          file (UploadFile): The file that needs to be saved in a temporary location
+      """"""
+      if not os.path.exists(""temp/""):
+          os.mkdir('temp/')
+      temp_file_path = f""temp/{file.filename}""
+      with open(temp_file_path, 'wb+') as f:
+        f.write(await file.read())
+    
+    def extract_text_from_file(file_path: str) -> str:
+      """"""Extracts text from a given file.
+    
+      Args:
+          file_path (str): The file path for the file which needs to be extracted
+    
+      Returns:
+          str: Returns the extracted texts from the file 
+      """"""
+      text = textract.process(file_path)
+      return text.decode('utf-8')
+    
+    class CriteriaExtractionResponse(BaseModel):
+        criteria: List[str]
+    
+    @app.post(""/extract-criteria"" , response_model=CriteriaExtractionResponse , summary=""Extract Job Criteria"",
+              description=""Extracts key ranking criteria from an uploaded job description file (PDF or DOCX)."" )
+    async def extract_criteria(file: UploadFile = File(...)) -> CriteriaExtractionResponse:
+        """"""This endpoint extracts the key criteria for a given job description using openAI's LLM . 
+    
+        Args:
+            file (UploadFile): A PDF file containing the description of a job.
+    
+        Returns:
+            dict: a list of important criteria for the job
+        """"""
+        if not file.filename.endswith(('.pdf', '.docx')):
+            raise HTTPException(status_code=400, detail=""Unsupported file type"")
+        
+        # Save the file temporarily
+        temp_file_path = f""temp/{file.filename}""
+        await save_tempfile(file)
+    
+        # Helps to extract text from the file
+        extracted_text = extract_text_from_file(temp_file_path)
+    
+        # openai-response
+        response = client.chat.completions.create(
+            model=""gpt-4o"",
+            messages=[
+                {""role"": ""system"",""content"": ""You are an experienced Hiring Manager. For the given Job description, look for the necessary criteria that is crucial for the role.""},
+                {""role"": ""user"", ""content"": f""Extract key ranking criteria such as skills, certifications, experience, and qualifications from the following job description: {extracted_text}, do not separate into multiple categories, return the json as a list of criterias. Make the criterias short, 2-3 words""}
+            ],
+            
+            response_format={
+        ""type"": ""json_schema"",
+        ""json_schema"": {
+          ""name"": ""extract-criteria"",
+          ""strict"": True,
+          ""schema"": {
+            ""type"": ""object"",
+            ""properties"": {
+              ""criteria"": {
+                ""type"": ""array"",
+                ""description"": ""A list of criteria as strings."",
+                ""items"": {
+                  ""type"": ""string""
+                }
+              }
+            },
+            ""required"": [
+              ""criteria""
+            ],
+            ""additionalProperties"": False
+          }
+        }
+      },
+            temperature=0,
+            max_completion_tokens=2048,
+            top_p=1,
+            frequency_penalty=0,
+            presence_penalty=0
+            )
+        
+        criteria = response.choices[0].message.content
+    
+        # deleting the temporarily saved file
+        clear_tempfiles('temp/')
+        return CriteriaExtractionResponse.parse_raw(criteria)
+        
+    
+    @app.post(""/score-resumes"", summary=""Score Resumes"",
+              description=""Scores multiple resumes based on provided criteria and returns scores in a CSV format."")
+    async def score_resumes(criteria: str = Form(), files: List[UploadFile] = File(...)) -> StreamingResponse:
+      """"""This endpoint scores uploaded resumes based on the provided job criteria using OpenAI's LLM.
+    
+      Args:
+          request (criteria , files): Contains the list of criteria and uploaded resume files.
+    
+      Returns:
+          StreamingResponse: A CSV file containing the scores for each candidate.
+      """"""
+      
+      try:
+        criteria_json = json.loads(criteria)
+        criteria = CriteriaExtractionResponse(**criteria_json)
+      except json.JSONDecodeError:
+        raise HTTPException(status_code=400, detail=""Invalid JSON format"")
+      except Exception as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    
+      results = []
+    
+      for file in files:
+        temp_file_path = f""temp/{file.filename}""
+        await save_tempfile(file)
+        
+        extracted_text = extract_text_from_file(temp_file_path)
+        
+        individual_scores = []
+        response = client.chat.completions.create(
+            model=""gpt-4o"",
+            messages=[
+                {""role"": ""system"", ""content"": ""You are an experienced Hiring Manager.Match the text against the provided criteria and score based on the presence and relevance of each of the criteria. The value for each of the criteria should be between 0-5. Keep Track of the name for each of the candidates, don't add any explanation, just the value.""},
+                {""role"": ""user"", ""content"": str(criteria)},
+                {""role"": ""user"", ""content"": extracted_text}
+            ],
+            response_format={
+              ""type"": ""json_schema"",
+              ""json_schema"": {
+                ""name"": ""scores_list"",
+                ""strict"": True,
+                ""schema"": {
+                  ""type"": ""object"",
+                  ""properties"": {
+                    ""name"": {
+                      ""type"": ""string"",
+                      ""description"": ""The name associated with the scores.""
+                    },
+                    ""scores"": {
+                      ""type"": ""array"",
+                      ""description"": ""A list of numerical scores."",
+                      ""items"": {
+                        ""type"": ""number"",
+                        ""description"": ""A single score in the list.""
+                      }
+                    }
+                  },
+                  ""required"": [
+                    ""name"",
+                    ""scores""
+                  ],
+                  ""additionalProperties"": False
+                }
+              }
+            },
+            temperature=0,
+            max_completion_tokens=250,
+            top_p=1,
+            frequency_penalty=0,
+            presence_penalty=0)
+    
+        res = response.choices[0].message.content
+        res = json.loads(res)
+    
+        if len(criteria.criteria) != len(res['scores']):
+          raise ValueError(""The number of criteria must match the number of scores"")
+    
+        criteria_scores = dict(zip(criteria.criteria,res['scores']))
+    
+        total_scores = sum(res['scores'])
+    
+        individual_scores = {
+          ""name"" : res[""name""],
+          **criteria_scores,
+          ""total_scores"": total_scores
+        }
+    
+        results.append(individual_scores)
+    
+      # Convert results to DataFrame
+      df = pd.DataFrame(results)
+      df.name = df.name.apply(lambda x: x.title())
+      df = df.sort_values(by = [""total_scores""], ascending = False)
+      
+      # Create a CSV from the DataFrame
+      stream = io.StringIO()
+      df.to_csv(stream, index=False)
+      stream.seek(0)  
+    
+      clear_tempfiles('temp/')
+      return StreamingResponse(stream, media_type=""text/csv"", headers={""Content-Disposition"": ""attachment; filename=scores.csv""})
+    
+                
+
+
+
+Can you guys tell me what was wrong and how should this be done in the industry? I really thought I did my best and I was just said my code quality did not meet expectations. I understand that rejections are part of the job application process. But I just want to understand how I could have done better and if there is some knowledge gaps I need to bridge. ",BananaCharacter9599,154,64,2025-03-08 10:18:31,https://www.reddit.com/r/learnprogramming/comments/1j6e9rp/had_a_coding_interview_the_recruiter_barely_said/
+Starting to see how programming is kind of a superpower!,"Hey all, so I'm in the pretty early stages of teaching myself web development for a personal creative project, and frankly it's been kind of slow putting the pieces together! I'm old and I got time so my progress is pretty slow. All I want to do eventually is post bloggy type things involving photos, doodles, and some music-y things I'm making. I'm learning completely solo so I don't have classmates to rant to!
+
+I've ruled out that I need python for now, but I've settled on Internetting is Hard and W3Schools for html/css education. On my own account I tried to download Jekyll because it sounded like it'd be helpful, and it may be, but it got me more familiar with 1) the Terminal, 2) VSCode, 3) Ruby, and 4) Homebrew and all of those things were terrifying to me before. Jekyll is enabling me to kind of see results of learning/tinkering a little faster than what I was doing before.
+
+Installing Jekyll through Terminal via Homebrew was such a cool learning experience.
+
+So why am I saying this is kind of a superpower? I'm also learning markdown elsewhere because certain programs like Notenik, Spaces, or Logseq use them, and it's a pretty nifty thing. Those types of programs are just helping me write better notes.
+
+And it hit me that ALL OF THIS IS JUST TEXT (duh that's what HTML is dude!) and it's just kind of amazing to me that you can build a whole valuable website and automate all sorts of things just by writing stuff out and placing it in the right spots. And the fact that it's just text files means it's super shareable, savable, and open. It's wild.
+
+Here and in other subreddits folks have been so helpful so I just wanted to write this out, if only for an affirmation. By the end of the summer I'll have a tiny simple stupid website that matches my vision and in April it literally seemed impossible.
+
+edit:
+
+this is *awesome*",Interesting-Head-841,154,28,2024-06-12 14:51:54,https://www.reddit.com/r/learnprogramming/comments/1de8kec/starting_to_see_how_programming_is_kind_of_a/
+Does is actually matter that Python is a simple language?,"
+I started learning software development in my early thirties, but as soon as I started I knew that I should have been doing this my whole life. After some research, Python seemed like a good place to start. I fell in love with it and I’ve been using it ever since for personal projects.
+
+One thing I don’t get is the notion that some people have that Python is simple, to the point that I’ve heard people even say that it “isn’t real programming”. Listen, I’m not exactly over here worrying about what other people are thinking when I’m busy with my own stuff, but I have always taken an interest in psychology and I’m curious about this.
+
+Isn’t the goal of a lot of programming to be able to accomplish complex things more easily? If what I’m making has no requirement for being extremely fast, why should I choose to use C++ just because it’s “real programming”? Isn’t that sort of self defeating? A hatchet isn’t a REAL axe, but sometimes you only need a hatchet, and a real axe is overkill.
+
+Shouldn’t we welcome something that allows us to more quickly get our ideas out into the screen? It isn’t like any sort of coding is truly uncomplicated; people who don’t know how to code look at what I make as though I’m a wizard. So it’s just this weird value on complication that’s only found among people that do the very most complicated types of coding.
+
+But then also, the more I talk to the rockstar senior devs, the more I realize that they all have my view; the more they know, the more they value just using the best tool for the job, not the most complex one.",Golem_of_the_Oak,153,191,2025-04-12 15:26:39,https://www.reddit.com/r/learnprogramming/comments/1jxjt0v/does_is_actually_matter_that_python_is_a_simple/
+Why is Django seen as a red flag?,"I was going through a linkedIn hiring post with django as a required skill, and another person went full on it how the job description was a joke and django is a red flag for a VC-funded startup and it has no actual usecase.
+
+From experienced programmers, what is it that makes django unfit for real-life applications? Is it not scalable (if so, what makes ither frameworks scalable)? Is it something to do with Python GIL (but doesn't js/node run on single thread too?)? Or is it something to do with security/bulkiness? Do people not prefer it because it's interpreted and thus slow (but node seems to be widely used)?
+
+I'm trying to understand what senior engineers look for when making decisions on which language/framework is ideal or not ideal. And how do options compare. Thank you .",gotsomequestionss,146,120,2024-09-02 02:44:17,https://www.reddit.com/r/learnprogramming/comments/1f6w5js/why_is_django_seen_as_a_red_flag/
+"What books are a must-read for programmers that are starting out, and why? What have you gained from reading those books?","I know that this question has been in this reddit. But it's too old (9yo)  
+Please, don't recommend too advanced books, I'm in first year of Computer Science (I have some previous knowledge with python and web development)   
+Glad to read your answers :p",Aike6l,146,58,2024-05-12 21:41:45,https://www.reddit.com/r/learnprogramming/comments/1cqiu59/what_books_are_a_mustread_for_programmers_that/
+Is Linux required to do learning? Advice for a noob.,"I started learning programming.  
+An acquaintance of mine who is a software engineer told me to learn python. So I learned the syntax, made a few simple projects which don't contain more than a 100 lines of code - simple games or playlist downloaders using pre-written modules.
+
+Then I realized that ""learn python"" is a really vague statement. And that it's not possible to learn if you don't even know what it is that you're supposed to be learning. 
+
+So I went searching for some guiderails and found the most basic ones - frontend free courses. Did some HTML and CSS stuff. I found the Thor Project and App Academy to be the most efficient ones, unlike, say, the freeCodeCamp.  
+Well, both of them require you to install Linux or do some inexplicable stuff with virtual machines. And I haven't even reinstalled my Windows in who knows how many years, it's such a bothersome task.
+
+I've seen people say that Linux will be good to learn and install anyway, but I do not seek to be some outstanding dev. I'm just looking for a skill that will pay the bills, and my bills are small.
+
+So I wonder if it is some hard requirement for any programming job to be familiar with the ways of Linux?",DontFlameItsMe,149,180,2024-07-24 17:05:17,https://www.reddit.com/r/learnprogramming/comments/1eb6okr/is_linux_required_to_do_learning_advice_for_a_noob/
+What programming language is best to learn if you want a career in IT,"I'm currently in my last year of high school and recently started learning python. I need to decide on a career path and I'm not exactly sure which direction to go in. I've written a couple basic programs and has played around with tkinter and pygame. Can anyone recommend a programming language to learn that will give me the largest variety of opportunity for a good career?
+
+Update: Thanks for all the replies and advice given, I realised that I was not at all specific with this question but the comments still helped, I'm going to look at all the recommended languages but I'll stick to python for now until I made up my mind on what direction to go, for now I'm thinking about cyber security and game or app development as a hobby so learning ""programming"" as a whole like several of you recommended seem to be my best course of action 
+",Responsible_Sand8532,148,172,2024-06-22 12:36:57,https://www.reddit.com/r/learnprogramming/comments/1dluq04/what_programming_language_is_best_to_learn_if_you/
+I'm not able to build anything.,"I have been learning programming for years, I just can't build any projects. I have learned Python syntax 5 years ago and 3 other languages, but didn't build anything. I feel like the uni is wasting my time learning everything except what really matters. What can I do to be able to build stuff? I also want to escape tutorial hell.
+",Sea-Tree-5937,151,64,2025-03-02 18:52:38,https://www.reddit.com/r/learnprogramming/comments/1j1y8ts/im_not_able_to_build_anything/
+I enjoy math but hate programming. Is this normal?,"Hello. I’m currently a high-school student taking a Computer Science course in school, mainly focusing on Python. 
+
+I have absolutely no background in coding but I had the “dream” of becoming a programmer, so I took the course. 
+
+ I’ve always heard people around me say stuff like “if you’re good at math, you’ll be fine with coding” “You’ll probably like coding since you like math”.
+It encouraged me to learn how to program but I’m starting to realize now that I absolutely hate programming. My eyes hurt staring at the computer screen for so long, the environment I code in, the lack of support, the amount of errors, plenty of room for mistakes, and it’s just not fun. 
+
+To be honest..I think the money is what I saw of becoming a programmer. Hence I forced myself to code and lied to myself that I enjoy this. 
+
+I like problem-solving in math and looking for errors in my solution when my answer is wrong, but with programming…it’s just not the same—at least for me. 
+
+Am I just not smart enough for programming? I’m starting to doubt my math skills and critical thinking abilities. I feel so stupid when coding.
+
+Edit; sorry if this sounds like a rant. I’m frustrated and stressed with this final assignment",dannyaod,144,208,2024-05-17 12:46:14,https://www.reddit.com/r/learnprogramming/comments/1cu498h/i_enjoy_math_but_hate_programming_is_this_normal/
+I finally understand recursion!,"Im fairly new to programming and this finally clicked in my head. 
+
+For instance in python:
+
+```
+
+def tri_recursion(k):
+    if(k>0):
+        result = k + tri_recursion(k - 1)
+        print(result)
+    else:
+        result = 0
+    return result
+
+tri_recursion(4)
+
+```
+The code outputs:
+1
+3
+6
+10
+
+It finally made sense to me that each iteration gets ""put on hold"" after running the line that has the recursed function so it keeps looping until k = 0, which then returns 0. After that, it has to finish out each iteration of the function sorta ""in reverse order"" but really its just the most recent so that the preceding recursed functions actually have a returned value to work with to finish the instructions.
+
+Sorry if im not using the right terminology or if its worded poorly, like i said im new to this and i just wanted to share this excitement and what feels like a breakthrough in my self learning process!",base4our,144,43,2024-11-25 17:38:49,https://www.reddit.com/r/learnprogramming/comments/1gzoobm/i_finally_understand_recursion/
+Where should my son go to learn to be a Computer Programmer? ,"My son wants to be a video game programmer for his career. He’s not built for a 4 year university taking classes that aren’t in his chosen field. What are the best steps for him to take? He knows, Python, Java currently and is a beast on the computer. He also has a Cybersecurity certification and IT business certification. Any insight on where to start? He is a junior in high school right now and in a Computer Science program. We are in Florida if that matters. Thank you! 
+",TheButtercupladycom,139,136,2024-11-12 17:25:46,https://www.reddit.com/r/learnprogramming/comments/1gpq3co/where_should_my_son_go_to_learn_to_be_a_computer/
+Do calculators and computers use math tricks for big numbers?,"I know you can do addition, multiplication, exponentiation bitwise. and in steps for big numbers.
+
+But aren't there also tricks you can use - 50\*101 = 50 \* 100 + 50 \* 1. Anything \*1 doesn't have to be multiplied. anything times 2 means a bit shift, etc. there are many in number theory for instance. Or if a number has a fractional representation, does the computer ever cancel like terms? 
+
+Or do python, or the C math package or the x86 instruction sets (not sure which level would be in charge of this) just grind everything out, not matter what because it would be too hard for it to recognize the meaning of numbers? If not, what is this process called? 
+
+",third_dude,134,35,2025-04-13 15:21:42,https://www.reddit.com/r/learnprogramming/comments/1jya33j/do_calculators_and_computers_use_math_tricks_for/
+CS Grads in Big Tech: What's the gap between academic CS and what actually got you hired?,"I recently graduated with a CS degree and I'm targeting roles at major tech companies. I've been doing LeetCode and I'm comfortable with DSA, primarily using C++ and Python. However, I'm concerned there's a gap between my academic knowledge and what actually makes someone successful in landing and thriving in these roles.
+
+I'd appreciate insights from those who've successfully made this transition:
+
+1. **Beyond DSA and LeetCode**, what specific skills or knowledge areas should I prioritize that weren't adequately covered in your CS curriculum?
+2. **What portfolio projects** actually impressed interviewers or helped you stand out from other CS grads?
+3. **What industry-specific tools/practices** were you expected to know but had to learn on your own? (Build systems, version control workflows, deployment pipelines, etc.)
+4. **What misconceptions** did you have about the interview process or working in big tech that you wish someone had corrected?
+5. **If you could go back** to right after graduation, what would you focus on in your first 3-6 months of job hunting?
+
+I'm particularly interested in hearing from those who graduated in the last 2-3 years, as the industry evolves quickly. **Any & all input is appreciated!**  
+  
+Thanks in advance!",Delicious-Shine418,138,19,2025-02-28 16:36:09,https://www.reddit.com/r/learnprogramming/comments/1j0bwvq/cs_grads_in_big_tech_whats_the_gap_between/
+Learn to use a debugger,"tl;dr Learn to use a debugger, it doesn't take long and will be useful as soon as you start using loops.
+
+___
+
+It is near the end of the semester, so I'm almost done with my first CS course :) I can't offer much advice, but I did realize one thing, the value of knowing how to use a debugger. 
+
+You may see it suggested on occasion ""learn to use a debugger"" and you may think to yourself ""I'm just doing small 20 line programs, I don't need to know how to use a debugger yet"", you're probably going to be proven wrong 😂. As soon you learn how to make a loop you should then go and learn how to use a debugger.
+
+I had a problem a little while ago, it was either loops or recursion, but what saved me from pulling out hair was recalling the few minutes I spent learning how to use the JetBrains debugger. 
+
+It doesn't take long to get a rudimentary understanding of how they work, 1 hour tops. To sum up what it does, it just shows you the current value of your variables.
+
+A simple program to illustrate
+
+    import random
+
+    for i in range(1, 11):
+        ran_num = random.randint(1, 10)
+        i += ran_num
+        print(i)
+
+All this does is count from 1 to 10, generate a random number (from 1 to 10), add it to i, and then print it. The debugger will show you what the value of ran_num and i are so you can see if a value is something other than what you expect it to be so you can more easily troubleshoot your code. 
+
+PyCharm is what I normally use for Python [pic](https://i.postimg.cc/3rsLtJty/image.png) but VSCode has it too [another pic](https://i.postimg.cc/50H3mZvq/image.png)
+
+Here's a video I think does a decent job of explaining how to use the debugger in VSCode https://www.youtube.com/watch?v=oCcTiRGPogQ (this isn't my video, I don't know this person)
+
+I hope this helps someone :) Good luck!",NormalSteakDinner,132,61,2024-11-22 15:30:29,https://www.reddit.com/r/learnprogramming/comments/1gxafzr/learn_to_use_a_debugger/
+Company wants me to Pay them for my Internship!,"Hello Programmers,
+I am just starting to enter in the tech field after a degree in Computer Science which i am finishing next month, so i started looking for internships at every platform. And today i got one interview of Machine Learning Intern position at a place in eygpt where as i reside in India. I got into interview and it went really well i did have some experience/projects in python[Machine learning and Web development] to showcase so like the interviewer is impressed but at last he started telling me that ""so this is a small company this internship will cost you $20[₹1700] for the mentorship we provide. You have to build and give them two projects in 1 month tenure"" - exact words.
+
+So here i am confused about what to do, at first i thought it is a scam because though this was a unpaid internship i did sign up unwillingly but now they are want me to pay them. EDITED[Added] - 'And the second thought which comes in mind was this can be true because I don't about other countries but whenever I searched on LinkedIn and location in India for the internships there are number of internships which wants me to pay like $5[₹500-₹800]. They are just like distributing internships certificate and the tasks are like make a calculator. That's where i thought it can be real.'
+
+What are views on this should pay them and start or try another internship?
+
+Edited[Added:24 hrs after the post] - So after 24 hours of the post and looking at majority (also referring to first thought i have) I have withdraw my application of Machine Learning Intern from that company and now looking for internships which are not like this ""scam type"". Also I am keeping this post to help others. For now and for me the Question is Answered and WELL ANSWERED thanks to the amazing people contributed in writing and upvotes to the comments.
+
+Also if you can refer me some good internship, please show your kindness.",ketan_v_astro,130,78,2024-06-11 14:27:33,https://www.reddit.com/r/learnprogramming/comments/1ddfgpj/company_wants_me_to_pay_them_for_my_internship/
+Is programming supposed to be this hard is it just not for me?,"I started teaching myself how to code in python about a month ago and it's probably one of the hardest things i've ever had to learn, i spend about 2-4 hours a day learning and working on courses online but i have trouble actually digesting anything, i could probablyyy do the basics if you were to pay me and i had to, and i mean literally the basics like greeting a user or loading up a list or sorting out a list, stuff like that the BARE minimum but it's the more complicated stuff that i just stare at for what seems like hours trying to logically piece everything together but can never see how they make sense, i guess what i'm asking is was it this hard for you starting? And how long did it take for you to confidently talk about coding? weeks months maybe years? like i said i'm on my first month and its embarrassing how complicated it feels to me like 90% of the time im just STUMPED. So be honest and tell me whether or not im going through a faze or it's literally just me and its not that hard ",Formal_Flamingo_6560,132,168,2024-10-10 02:36:14,https://www.reddit.com/r/learnprogramming/comments/1g08xvr/is_programming_supposed_to_be_this_hard_is_it/
+What things have you automated to make your life easier?,"I read a lot of people who begin to learn programming start with Python and I often see they learn to automate aspects of their life to make it easier for them.
+
+But when I try to think of what they would automate my mind draws a blank, what if any things have you automated or would you recommend automating? 
+",Industry-Standard-,129,82,2024-05-08 03:29:47,https://www.reddit.com/r/learnprogramming/comments/1cmuwbz/what_things_have_you_automated_to_make_your_life/
+I am constantly overwhelmed with coding,"Around 7 months ago I started learning how to code by doing the Harvard CS50 Python course. Altough it was pretty hard and exhausting for me, I managed ti get through and gained some knowledge about programming with Python. However, I then decided that I wanted to go deeper into Mobile App Development because thats what I‘m interested in the most. I started learning Dart and Flutter for cross platform Development with tutorials on YouTube and by trying to build my own project. Ever since then I barely understand anything and I feel like making little to no progress. The Flutter syntax often just does not make sense to me. Any tips for understanding and learning flutter better? Or tips for a programming beginner in general?",Expensive-Wolf-3787,125,53,2024-10-25 23:56:26,https://www.reddit.com/r/learnprogramming/comments/1gc8c0b/i_am_constantly_overwhelmed_with_coding/
+From Tutorial Hell to Subscription Hell to AI Hell: My Journey of Learning Nothing,"They said: ""Leave YouTube tutorials and learn from well-structured paid courses."" So, I left tutorial hell and felt relieved—finally, some direction! However, I soon found myself in a new trap: subscription hell. These courses were indeed well-structured but offered no practical or real-life projects. Tic-Tac-Toe, calculators, hangman games—basic syntax and logic, but nothing that felt like genuine progress.
+
+Frustrated, I sought out more serious and professional paid subscriptions, believing they would provide profound and comprehensive knowledge. Yet, I was met with courses spanning 80 hours of videos (seriously?) and still no meaningful success. Desperate for progress, I turned to platforms like DataCamp, only to find their content too shallow and overly simplistic. Real-life problems are vastly different from what these resources cover.
+
+Seeing no progress and feeling increasingly unmotivated, I found myself drowning in an endless sea of YouTube tutorials, paid subscriptions, and shallow content. Then came ChatGPT. At first, it felt like a breakthrough—it solved my problems on demand. But even then, I found myself struggling to truly understand the code or grasp the deeper concepts. It felt like I was forgetting what programming was even supposed to be.
+
+Now, I’m still determined to learn programming but plagued by confusion. Should I start with Java and then move to Python? Or begin with Python because it's supposedly easy and ubiquitous? And yet, Python's syntax feels clunky and unbearable to me. Why am I stuck in this endless cycle of `if`, `else`, and first-class syntax?
+
+Am I missing something? Why can’t I break out of this loop?",Prestigious_Flow_465,126,32,2024-12-02 18:30:45,https://www.reddit.com/r/learnprogramming/comments/1h51yoc/from_tutorial_hell_to_subscription_hell_to_ai/
+How can I actually become a better programmer? (College student trying to stop avoiding the hard stuff),"Hey everyone!
+
+  
+I’m a junior in college majoring in CS, and I’ll be honest I’m not at the skill level I want to be when it comes to programming. I know some C++ and Python, and I have a couple Udemy courses I’ve started, but I’ve realized I’ve been doing a lot of everything else (job, clubs, extra curricular activities, etc.) except really sitting down and doing the work to improve my coding skills. I do have a lot going on so hearing how you guys time managed to become better programmers that would be awesome.
+
+I want to LeetCode more, build stronger fundamentals, and stop feeling like I’m just coasting through. I don’t want to be the person who looks busy but avoids the hard stuff that actually leads to growth.
+
+If you’ve been in this spot and came out stronger:
+
+* What helped you the most to improve your coding skills?
+* How did you build consistency without burning out?
+* Any strategies for balancing LeetCode, projects, and schoolwork without getting overwhelmed or distracted?
+
+I’d appreciate any advice, routines, or resources that helped you actually get better, not just pass classes. Thanks in advance!",ParableParser,120,32,2025-04-09 15:12:31,https://www.reddit.com/r/learnprogramming/comments/1jv86ne/how_can_i_actually_become_a_better_programmer/
+How on EARTH do I know what packages to use? Ever???,"I'm a SENIOR in computer science and if a code project includes anything besides text and numbers, I will not know how to do it. Today I decided to start working on the simplest 2D platformer imaginable just to give myself some experience, and after I typed hello world into Python, I was stuck. I don't know how to open a window or draw a frame. And when I look up how to do so, I'm faced with a barrage of Python packages that each have a wildly different set of tools and uses. 
+
+My college education has taught me the ins and outs of languages and how they work, and concepts like data structures and object oriented design and all that good stuff. But not once have I ever made a project that included more than outputting to the console. When I look up how to do something and it includes a package beyond basic built-in math, I don't even register it as having answered my question.
+
+Please for the love of god tell me what I'm supposed to do. Is it all just trial and error? Do I have to find a list of all the packages for a language and memorize their name and utility? Should I abandon all my free time, make my wife do all the housework, and find a comfy spot where all I do is code day-in day-out until I ""get it?"" I don't even know where to START. ",Sometimes-True,122,128,2024-09-21 13:36:31,https://www.reddit.com/r/learnprogramming/comments/1fm36yp/how_on_earth_do_i_know_what_packages_to_use_ever/
+"Look at my first Python Project!
+It's called: YouTube Channel Name Generator","    # Welcome message
+    print (""Welcome to the YouTube Channel Name Generator:"")
+    # Ask the user to put their nickname
+    nick_name = input (""What is your nickname?\n"")
+    # Ask for their YT channel's topic
+    topic = input (""What is your channel about?\n"")
+    # The result of YT channel name suggestion
+    print (""You could name your channel ("" + topic + "" with "" + nick_name + "")"")",NationalStyle4119,117,35,2024-11-29 08:07:29,https://www.reddit.com/r/learnprogramming/comments/1h2h0ey/look_at_my_first_python_project_its_called/
+Is it ok to just jump straight into making an app idea and learn as i go?,"I have some basic understanding of kotlin and im trying to follow the course but its hard not to think i could be just starting what i wanna make and learning this stuff later im more of an active learner and learn better by doing projects its how i learnt web dev and python but android dev seems slightly more advanced, even so i just wanna get to building im really excited to try
+
+the app if youre wondering is VERYYY basic and all it does is track the whos turn it is in boardgames and card games im making it for my family game night (we argue alot and often forget the order) its simply gonna be a plain screen you enter the players and press ""start"" in which itll display the first player and every turn that passes you press a button thatll change the name on the display to the next player
+
+so for example itll display John after john plays he presses the button then it displays henry etc.",Admirable-Course-166,119,47,2024-10-19 10:50:16,https://www.reddit.com/r/learnprogramming/comments/1g76a44/is_it_ok_to_just_jump_straight_into_making_an_app/
+Is it really worth learning COBOL,"Hey everyone 
+
+I know/am learning BASH and PYTHON, but have come across some videos recommending COBOL. Apparently there is high demand but low supply.
+
+Can anyone let me know if it would be worth it for me to start learning COBAL as well.
+
+Also, if so, where on earth would I find a compiler to start making programs?",UkkuSociety,115,101,2025-02-15 16:17:19,https://www.reddit.com/r/learnprogramming/comments/1iq4t59/is_it_really_worth_learning_cobol/
+I honestly feel like quitting ,"You’ve probably all seen posts like this before. I’m 20 years old in my junior year of college, but I feel like an idiot. I can code pretty okay, I’ve done JavaScript, HTML and CSS, Python/Jython(mix of Java and Python) and some other language I don’t remember, sometimes whenever I get stuck, I use past programs or I ask a friend what they did to fix it, or look it up, but the math classes are driving me up a wall. Linear algebra, Calculus and Discrete Structures are my absolute worst enemy, I already have to retake two(calc and discrete, redoing calc right now)and I’m taking linear algebra this semester, and I feel like the stupidest human to ever exist, which is wild considering I was top 100 in my high school class. I just want to know from anyone at this point if it’s even worth it to continue? I love coding but I hate math with a burning passion and I always suck at it
+
+Edit: Thanks for the positive reinforcement yall, being a black woman in stem is hard work but we keep pushing😤😤",SnooBunnies7986,115,59,2024-09-13 01:31:58,https://www.reddit.com/r/learnprogramming/comments/1ffizyz/i_honestly_feel_like_quitting/
+Is odin project still good in 2024?,"soo im interested in full stack web dev . Do u guys still recomend it or are there any better alternatives? And i have some knowledge on html and css from some reputed youtube but that proved to inefficient .
+
+Edit: I have a sold grip on python along with oop if it helps",UnderstandingOk9237,111,25,2024-05-21 11:08:58,https://www.reddit.com/r/learnprogramming/comments/1cx5932/is_odin_project_still_good_in_2024/
+How to actually get good at programming,"## What Programming is About
+
+In my view, programming has two main components: problem
+solving (including debugging) and system design (a.k.a.
+architecture). Problem solving is figuring out how to get the
+computer to do what you want it to do. Practicing Leetcode is
+practicing problem solving. But Leetcode tends to be a certain
+kind of problem solving, that is more focused on math and
+algorithms than regular day-to-day problem solving is. You
+don't necessarily need to be super good at Leetcode to be a
+decent programmer. (Small rant: An algorithm, by the way, is not
+just any program, or piece of a program. An algorithm is a
+description of how to solve a well-defined problem (like
+sorting), that is guaranteed to work every time, in finite time.
+""The Youtube algorithm"", for example, is a poor use of the word,
+since it does not solve a well-defined problem. If you study
+algorithms, you will see that things called algorithms, for
+example ""Dijkstra's algorithm"", have these properties.)
+
+System design is about putting a lot of parts together into a
+big system without making an unmaintainable mess. It's all about
+eliminating complexity. What is complexity? It's when the parts
+or aspects of something are intertwined (or complected) such
+that they are not independent. Let me give you an example.
+Imagine you want to buy 5 eggs. But at the store they only sell
+eggs in packs of 12. Now you have a problem, because you need to
+buy 7 more than you wanted. This is because the product eggs has
+been complected with the amount 12. I hope you see that the
+problem here stems from things not being independent. And
+unless you can intuit it, let me tell you that complexity always
+leads to problems---it is always bad. Let me repeat something I
+said earlier, but you might not have thought much about: System
+design *is about eliminating complexity, nothing more*. The
+SOLID principles, for example, are all special cases of
+eliminating complexity. [Here is a brilliant, important talk on simplicity that
+you should watch religiously.](https://www.youtube.com/watch?v=SxdOUGdseq4)
+
+While problem solving is essential, system design is almost more
+important. Why? Because most hard problems you will run into
+have already been solved, like problems with text searching,
+graphs, databases, network protocols, etc. If you just know the
+terminology you can google your way to solutions to all hard and
+reasonably common problems. But you need to be decent at problem
+solving, so you can solve most of your own day-to-day problems
+yourself. But a lot of people get to a decent level at problem
+solving. What sets programmers apart is mostly system design,
+and you can't solve system design problems as easily by
+googling.
+
+Notice that I have not said anything about memorizing a certain
+language or framework. Sure, you need to know at least one
+language, but that's not what programming is about. Learning a
+framework is easy once you know how to program.
+
+## How to Get Good at Programming
+
+Getting good at programming is mostly about practice (I'll get
+to the ""mostly"" part later). This should be obvious, but
+apparently it is not, given the amount of posts I see here about
+watching tutorials, memorizing languages and frameworks, and
+people wanting to be told how to do things. But you can't learn
+programming by being told how to do it, in the same way that you
+can't learn to play chess well by being told how to do it.
+That's why chess engines are AI programs that practice against
+themselves or other AI programs; a programmer and a chess grand
+master can not sit down and explain how to do it (i.e. program
+it).
+
+So as a beginner, what do you do? You learn a language from a
+book or proper course (not Youtube). While learning a language
+you should solve small problems and experiment yourself. The
+book or course hopefully has exercises. When you have done that
+you move on to projects. With projects you will practice both
+problem solving and system design. If you feel stuck, there are
+only two solutions you should consider (if you actually learned
+the language); *think harder, or choose an easier project*.
+Don't look for someone to tell you how to do it. And don't give
+up too easily. You should think about your problems for at least
+a few hours before giving up; maybe even days if the problem is
+that you can't figure out how to begin with your first project.
+Sure, if the problem you can't figure out is just a small part
+of a project, you may ask for help, but you should think about
+it for at least a few hours yourself first. [Here is a great
+take on this from Nathan
+Marz.](http://nathanmarz.com/blog/recipe-for-a-great-programmer.html)
+
+Having said all this, it can of course be invaluable to learn
+from other people. You should read books, watch conference
+talks, try new paradigms, etc. (not Youtube garbage like tutorials or
+""Best languages to learn in 2024""). But only a small part of your
+time, say maximum 10%, should be spent on this.
+
+I should probably say something more about tutorials. Tutorials
+are fine if you are trying to learn a new library, game engine,
+or something; when there is a new part of a project you are
+doing that you have not done before, and you need to get
+started. Written tutorials are often better than Youtube
+videos, and often the best ones are just the ""Getting Started""
+sections on the official websites. But don't watch tutorials for
+the purpose of learning how to do everything in your project.
+
+Finally: Think for yourself. This is general life advice, and
+should be applied to programming as well. Don't do something,
+for example OOP, or whatever, just because someone else told you
+to. If you don't understand the reasons behind something, ignore
+it or try to figure out the reasons and evaluate them.
+
+## What Language Should I learn?
+
+It doesn't really matter, because once you know how to program
+learning new languages will be much easier. But there are a
+couple of traps to look out for. Firstly, learn one thing at a
+time. This is mostly a problem in the web development world,
+where people feel the need to learn HTML, JavaScript, CSS, and a
+couple of frameworks all at once. Don't do this. Stick to one
+thing, like JavaScript with just the very basics of HTML.
+Learning a bunch of things at the same time will likely just
+lead to an illusion of compentence. Secondly,
+I think C++ should be avoided, because it is by far the most
+complicated, complex and time-consuming language out there. You
+may think that you want to learn C++ because a lot of games are
+made with it, but I think it's a waste of time. [Here is a game
+programmer who actually uses C++ ranting about it (Bjarne
+Stroustroup, whom he talks about, is the main designer of
+C++).](https://www.youtube.com/watch?v=1i4-e1okZtw) And Jonathan
+Blow, a successful game programmer who made *Braid* and *The
+Witness*, is making a new language because he thought C++ was
+bad. Imagine that, C++ drove him to make a new language. [Here
+is a short clip of him discussing
+it.](https://www.youtube.com/watch?v=lFmBa_2_TjU). At 02:11 in
+the video he says ""Let's actually do what we know is better than
+this C++ thing. And there is an unending list of things that you
+could do better."" Note his facial expression.
+
+One final thing I'll say about languages is: *Don't believe a
+language is good just because it is popular*. Almost the opposite
+is true. And almost all popular languages are very similar to
+each other. That can easily make you think that the kind of
+programming that is typical in those languages (C, Java, Python,
+etc.) is the only way to program, but that is not true. Try
+Lisp, Smalltalk, Erlang, Prolog, etc. at least eventually. [And watch
+this very important video.](https://www.youtube.com/watch?v=8pTEmbeENF4)",jackstawfromwitchita,112,38,2024-12-12 00:54:35,https://www.reddit.com/r/learnprogramming/comments/1hc936v/how_to_actually_get_good_at_programming/
+Something about web development really discourages me.,"Hello, for context, im pretty young and im currently learning the basics of HTML and CSS and then go to Javascript. But there's one thing really discouraging me all the time. After i learn a good part of these languages i wanna begin making something that i can share, but here's the problem actually hosting a site is paid. And as i said im pretty young so there's no option for me to pay currently, if i can't actually do anything (the reason i was learning in the first place) this would be really demotivating and i would probably stop learning. And im far away from getting a job, because of my age. Now when im learning CSS im kinda discouraged, knowing that i probably wont be able to do anything, i will probably have to switch to game dev or such. At the end i always give up, tried learning lua moved to GDScript, then moved to python, then back to GDscript, and now im at HTML/CSS. Heres the problem out of them all web dev is currently the most interesting for me, but i will probably stop learning due to that reason. Any tips?",Delfinekkk,112,66,2024-10-26 16:12:08,https://www.reddit.com/r/learnprogramming/comments/1gcoked/something_about_web_development_really/
+Is learning C programming from scratch still valuable in 2025?,"I’m a computer science student with a solid background in programming and experience in languages like PHP, JavaScript, and Python. While I’m still learning, many of my seniors and professors suggest that to build a strong foundation as a programmer, I should focus on languages like C, C++, or Java instead of the ones I’m currently working with. The reason is that C and Java are considered more fundamental to understanding core programming concepts. However, I’m in my final year, and as I prepare for placement drives, I’ve noticed that most companies focus on languages like C and Java during interviews. Even though I have strong projects in Python and JavaScript, they’re often overlooked because they see these languages as “easier” or “modular.”
+
+Additionally, for my goal of pursuing a master’s degree from a top government college, I need to pass an entrance exam where they primarily focus on C and C++ programming. I’ve realized that a solid understanding of C will open up more opportunities, but I’m uncertain how to learn it from scratch. I bought a book called ""Programming with C,"" but I’m concerned it will take too long to cover everything, especially since I’m starting from the basics. My main question is: How do I effectively learn C from scratch to an intermediate level, where I can confidently write logical programs? I don’t have much time, and I’m unsure how much effort it will take.
+
+I know many resources are available online, such as documentation, YouTube tutorials, and other websites, but I’m feeling overwhelmed and unsure of the best path to follow. I’m hoping someone can guide me, like a big brother, on how to approach learning C in a structured way. Ideally, I want to become proficient in C within a month. Any advice or suggestions on how to achieve this would be greatly appreciated!",Puzzle_Age555,109,64,2025-02-08 09:38:25,https://www.reddit.com/r/learnprogramming/comments/1ikjqey/is_learning_c_programming_from_scratch_still/
+"Question to self-taught programmers: how do you deal with the feel that you didn't learn the ""Official way""?","Title basically, I am halfway though ""Automate the Boring Stuff with Python"" (chapter 10 of 18), on and off and I don't know if is my lack of consistency or the way I am learning that makes me feel like I'm not learning on a legitimate way. Any tips on how to get rid of this feel?",Ok-Plenty1455,106,117,2024-09-02 18:06:42,https://www.reddit.com/r/learnprogramming/comments/1f7dia0/question_to_selftaught_programmers_how_do_you/
+The dopamine rush - when does it go away?,"I'm a Junior Python developer, and have been one for 3 months. Whenever I solve a problem, I get so happy and giddy and 'high'. How long can I expect for this to continue? Because it's fantastic, I never imagined you could enjoy working so much, and I never want it to end :) ",trubulica,104,80,2025-01-22 22:01:22,https://www.reddit.com/r/learnprogramming/comments/1i7nae4/the_dopamine_rush_when_does_it_go_away/
+I just want to share with you my experience,"Hello there. 25m here. When I was 15, I tried css/html, but was overwhelmed and gave up. When I was 16, I wanted to go to college on programming, but my father talked me out of this idea. ""Do you want to be simple executor?"". Long story short, I have pharmacy degree and in next year I will get PhD in chemistry. But recently I started to watch videos about python, then I started free python course because I have idea for telegram bot. And OH MY GOD, I ENJOY IT SO MUCH. I have completed 30% of 4 month length course in 5 days. And then I noticed 13-month course of ""Data science in medicine"", signed in and I'm so hyped right now, because I would be able to combine my previous experience with new passion and do something useful for our world. I would stay in chemistry if it was appreciated by my country, but grants are low, salary is shrinking from year to year.
+
+And yes, I think that now I'm more capable to learn programming because now I can learn and search in English (I'm not native, maybe you noticed already lol) and my experience in medicine/chemistry/tutoring chemistry taught me how to solve different tasks.",Late-Inspector-1664,104,19,2024-09-16 23:47:03,https://www.reddit.com/r/learnprogramming/comments/1fijwle/i_just_want_to_share_with_you_my_experience/
+Do I really need to learn these concepts to become a good programmer?,"Hi everyone!  
+I’m completely new to programming and have decided to start with Python. Before diving in, I watched a video that talked about the essential knowledge and skills that can help you as a programmer in the future. The video divided these into three main categories:
+
+1. **Browsing a lot and creating a GitHub account** (to get familiar with the community and version control).
+2. **Understanding how computers work** (like RAM, CPU, etc.).
+3. **Learning major programming concepts** (algorithms, recursion, loops, complexity, object-oriented programming, dynamic programming, computability, etc.).
+
+My question is: **Are these things really necessary to learn early on?** Will they significantly help me in the future as a programmer? And if so, **how can I understand them quickly without getting overwhelmed?**
+
+I’d love to hear your thoughts, tips, or any resources you recommend for a beginner like me. Thanks in advance!",DangerousSolid9368,103,66,2025-02-19 22:53:32,https://www.reddit.com/r/learnprogramming/comments/1itj77t/do_i_really_need_to_learn_these_concepts_to/
+"If you suddenly decided to become a programmer at 22 with a non-CS degree, what would your roadmap look like?","My godson is 22 and recently graduated with a bachelor’s degree in English Literature (& took no tech-related classes in college...oops!)
+
+He wants to pivot into software development & asked me my thoughts -
+
+I'm a sales guy - no technical knowledge in my brain at all...but the boy is SMART & technically-inclined - he's built a few apps on his own over the past 6 months by using Claude/other AIs to teach him a bit of the basics (not sure which languages tho)...
+
+So here I am asking y'all:
+
+If you were in my godson's shoes - fresh out of undergrad, with minimal technical background - how would you plan out your path into programming? Would you start by focusing on a single language (like Python or Java)? Would you go for a particular niche like cybersecurity right off the bat, or stick to a broader path first?
+
+I'm trying to help him work through these 3 pillars:
+
+1 - Work/life balance (which career tracks here will allow him to work remotely & eventually raise a family, etc.)
+
+2 - Monetary gains vs stability (high paying jobs vs the jobs that you'll always be able to jump to if tech layoffs go nuts again)
+
+3 - Career velocity (which career tracks...devops vs cybersecurity, etc...would allow a proactive, self-starter like him to leapfrog others & zoom up the corporate ladder?)
+
+There may be other pillars I'm not even considering here...
+
+Any advice would be ever so much appreciated...thank you all!
+
+**EDIT: I'm asking this with the understanding that, most likely, he WILL have to go back to school for a CS-related degree given the job market - that was not articulated clearly in the original post!**",ProfessionalHat3555,100,119,2024-12-19 16:36:23,https://www.reddit.com/r/learnprogramming/comments/1hhww6z/if_you_suddenly_decided_to_become_a_programmer_at/
+Feeling lost and overwhelmed. Where do I start programming for real?,"So, I’m 30 years old, and I’ve spent the last five years working at CERN, with the last four doing a PhD in particle physics. Most of my work involved coding in C++/CUDA, developing real-time processing algorithms, and doing statistical analysis with some ML. I enjoyed it and learned a lot, but I don’t feel like I ever truly learned how to *properly* program.
+
+  
+I can write C/C++/python well (I think), but I wouldn’t know how to build a framework or software from scratch. I want to start my ""new"" career around programming, but I feel overwhelmed by the possibilities. Computer Scientist? Software Engineer? Software Developer? Web/App Dev? I don’t even fully understand the differences between some of these roles.
+
+I’ve spent time watching streamers and YouTubers doing everything: from game dev, Linux kernel, compiler, programming languages, web add, and a bunch of completely random stuff. But this made me feel even more lost as they seem to know every framework or tool ever created. I’d love to start a project, but I have no idea what to build because I don’t even know what direction to take. I am really willing to invest time on it, but I can't start until I have a clearer mind.
+
+Has anyone else been in this situation? How did you navigate it? Any advice on where to start? I'd really appreciate any thoughts.",yossiro,100,66,2025-02-06 00:12:14,https://www.reddit.com/r/learnprogramming/comments/1iip757/feeling_lost_and_overwhelmed_where_do_i_start/
+"Struggling with ""Do you have to be smart to be a developer?""","Anyone else find themselves struggling with this ""am I smart enough question?""  Every time I hit a snag in my learning to code journey this question lives rent free in my head.  It's on repeat in my head like the Power Rangers theme song. Anyway, I found this random blog post to be really helpful. Especially the perseptive of persistence and work ethic.  It was really grounding for me- just keep practicing.  Anyway, I thought others might find it helpful too.
+
+[https://www.letterstocoders.com/p/am-i-smart-enough-to-become-a-developer](https://www.letterstocoders.com/p/am-i-smart-enough-to-become-a-developer)
+
+Now, back to my programming with data lesson for Python.",Lamens-Terms,101,55,2024-05-15 21:11:29,https://www.reddit.com/r/learnprogramming/comments/1csvwia/struggling_with_do_you_have_to_be_smart_to_be_a/
+I was recommended to learn SQL before Python; any truth to that?,"I've been working on and learning Python, but my cousin ( who is a professional programmer ) says I should learn SQL. I don't want to if I don't need to, but if it genuinely helps I can and will do that.
+
+EDIT: Thanks guys! I'll continue learning Python for the moment, but will definitely start SQL at some point.",CattiwampusLove,97,101,2024-07-10 21:30:22,https://www.reddit.com/r/learnprogramming/comments/1e07jh3/i_was_recommended_to_learn_sql_before_python_any/
+is web development (full-stack) a good career?,"Hello. Around 6 months ago, I started learning Python using online course named Programiz. I learnt most part of it (libraries are huge, of course, but basic stuff like lists, .append etc.), and after completing the course I was using Codewars for practice. However, I thought that there is no point of Python alone, and since my goal is web development, I started learning HTML. If somebody here is a web-developer, no matter if full-stack or not, can they describe shortly their work, what frameworks/mark-up or programming languages they use, and also how much time it took them to learn all of stuff.
+(right now I am learning HTML on Programiz, I plan on moving to CSS later, and then learning JS and using Python for back-end. I do know about Odin Project, don’t mention it)",Timurmasss,102,31,2024-11-11 04:49:00,https://www.reddit.com/r/learnprogramming/comments/1gok9m7/is_web_development_fullstack_a_good_career/
+Is Python still slow in 2025?,"I'm a little new to programming, I was planning on using python. But I've seen people complain about Python being slow and a pain to optimize. I was asking to see if they fixed this issue or not, or at least made it faster.",UserFive24,96,178,2025-03-22 15:34:00,https://www.reddit.com/r/learnprogramming/comments/1jhb40r/is_python_still_slow_in_2025/
+"2,000 free sign ups available for the ""Automate the Boring Stuff with Python"" online course. (July 2024)","If you want to learn to code, I've released 1,000 free sign ups for my course following my Automate the Boring Stuff with Python book (each has 1,000 sign ups, use the other one if one is sold out): 
+
+https://udemy.com/course/automate/?couponCode=JUL2024FREE
+
+If you are reading this after the sign ups are used up, you can always find [the first 15 of the course's 50 videos are free on YouTube if you want to preview them.](https://www.youtube.com/watch?v=1F_OgqRuSdI&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW) YOU CAN ALSO WATCH THE VIDEOS WITHOUT SIGNING UP FOR THE COURSE. All of the videos on the course webpage have ""preview"" turned on. Scroll down to find and click ""Expand All Sections"" and then click the preview link. You won't have access to the forums and other materials, but you can watch the videos.
+
+**NOTE: Be sure to BUY the course for $0, and not sign up for Udemy's subscription plan. The subscription plan is free for the first seven days and then they charge you. It's selected by default. If you are on a laptop and can't click the BUY checkbox, try shrinking the browser window. Some have reported it works in mobile view.**
+
+**I'm also working on another Udemy course** that follows my recent book ""Beyond the Basic Stuff with Python"". So far I have [the first 15 of the planned 56 videos done. You can watch them for free on YouTube.](https://www.youtube.com/watch?v=kSrnLbioN6w&list=PL0-84-yl1fUmeV_2bBSguF_S0TVZk8wow&index=1)
+
+**Frequently Asked Questions:** (*read this before posting questions*)
+
+* This course is for beginners and assumes no previous programming experience, but the second half is useful for experienced programmers who want to learn about various third-party Python modules.
+* If you don't have time to take the course now, that's fine. Signing up gives you lifetime access so you can work on it at your own pace.
+* This Udemy course covers roughly the same content as the 1st edition book (the book has a little bit more, but all the basics are covered in the online course), which you can read for free online at https://inventwithpython.com
+* The 2nd edition of Automate the Boring Stuff with Python is free online: https://automatetheboringstuff.com/2e/
+* I do plan on updating the Udemy course, but it'll take a while because I have other book projects I'm working on. If you sign up for this Udemy course, you'll get the updated content automatically once I finish it. It won't be a separate course.
+* It's totally fine to start on the first edition and then read the second edition later. I'll be writing a blog post to guide first edition readers to the parts of the second edition they should read.
+* **You're not too old to learn to code. You don't need to be ""good at math"" to be good at coding.**
+* Signing up is the first step. Actually finishing the course is the next. :) [There are several ways to get/stay motivated.](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_can_i_get.2Fstay_motivated_to_learn_programming.3F) I suggest getting a ""gym buddy"" to learn with. Check out /r/ProgrammingBuddies",AlSweigart,92,26,2024-07-05 15:53:16,https://www.reddit.com/r/learnprogramming/comments/1dw185d/2000_free_sign_ups_available_for_the_automate_the/
+I can do basic code but I struggle to make anything with it all.,"I'm not sure what I have going on with me but I can do all sorts of basic coding (python). Everytime I go to start a project I sort of freeze up. I feel like I'm not able to put everything together. I'm not sure if I'm overthinking or just insecure about my coding ability. Does anyone have some advice? A book or personal advice? Maybe even a video,thanks.",Background_Day_8197,91,37,2024-12-29 15:49:07,https://www.reddit.com/r/learnprogramming/comments/1hoyotx/i_can_do_basic_code_but_i_struggle_to_make/
+Is math a requirement to have a career in coding?,"So im 21 graduated HS 2yrs ago so in those 2yrs I finally found a career i want to do so I been studying a crap ton of coding and programming videos and everything is simple to understand but python 
+
+the reason being I really suck at math like I'm talking 8th grade level probably lower than that and it's starting to make me really uncertain if I want to still make this my career because of my low knowledge of understanding math 
+
+so I just want to hear from people who are in this field if I really need math to get a job in coding or if I'm just wasting my time.
+
+any response helps thanks",Most-Difficulty4797,94,156,2024-11-08 23:12:02,https://www.reddit.com/r/learnprogramming/comments/1gmvxy2/is_math_a_requirement_to_have_a_career_in_coding/
+How to make myself love to code,"Hey everyone,
+
+I’m really struggling with my degree, and I’m hoping to hear from others who might have gone through something similar. Last year, I took admission in Software Engineering – honestly, partly because my family thought it would be a stable, “smart” choice. I had started learning some basic Python online before uni, and at that time, I thought coding wasn’t so bad. Python was simple enough, and I even had fun building small stuff like a calculator. But now, everything feels different.
+
+Once I got into university, they started us on C++, and it felt way harder. I missed a few classes early on because of travel, and then it was like I couldn’t catch up. Somehow, I scraped by in the first semester, but it wasn’t great. In the second semester, I even failed a lab because I missed a test (couldn’t make it due to rain and no car at home). I knew I was struggling, but instead of being able to switch, I ended up right back in software engineering. My family convinced me to try again, saying that other fields, like business or design, “aren’t worth it.”
+
+The thing is, I do think Software Engineering is a solid degree, but I just can’t seem to enjoy it. Coding feels like a chore, and it’s frustrating because I want to make the best of this degree, but I don’t love it. The whole idea of spending hours coding or debugging just drains me. I’m actually more interested in the design and interactive side of things, but the heavy focus on coding isn’t clicking with me.
+
+So, I’m curious if anyone else has been in this position – feeling like you’re stuck with a degree that doesn’t feel right, but trying to make the best of it. Is it even possible to make yourself like programming if you’ve already decided it’s not for you? If anyone has tips or stories on how they made coding less of a headache (or even enjoyable), I’d love to hear it.
+
+Thanks for reading!
+
+",Mr_Gamer_69,91,90,2024-11-01 12:05:49,https://www.reddit.com/r/learnprogramming/comments/1gh3rwh/how_to_make_myself_love_to_code/
+Best way to learn practical coding rather than toy examples?,"Have a 4 year degree going down the CS path, 4.0 GPA. But can't do shit outside of simple ""toy"" examples. Fizzbuzz, tower of hanoi, simple commandline text manipulation stuff.
+
+Before anyone asks, it was a physical university. I believe the main issue is I was the first person in my family to get an education so I thought I just needed to make the grades and things would work out.
+
+But as far as actual skills I just touched c++ (the main language for most courses), Ruby, python, assembly... maybe 2 days of javascript. Nothing from a production standpoint. No big codebases. Never used asynchronous code except learning about promises in that brief intro to JavaScript. No parellelism. Just theory, syntax, and tower of hanoi and other small examples.
+
+Fast forward a couple years and I want to try and actually learn practically. Even if I never get a job in this field I want to say I can actually make something non trivial. I don't want to feel like those years were literally just wasted.
+
+So please. Any advice is appreciated.
+
+Edit: Bachelor's Degree since I was asked for clarification.",FroDude258,91,75,2024-10-29 12:27:15,https://www.reddit.com/r/learnprogramming/comments/1getcqv/best_way_to_learn_practical_coding_rather_than/

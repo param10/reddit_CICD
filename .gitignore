@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Ignore EC2 key file
+airflow_ec2_key.pem
+
+# Ignore password document
+Password\ for\ user
+
+# macOS system file
+.DS_Store
+
