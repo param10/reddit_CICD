@@ -45,9 +45,9 @@ def run_ETL():
         print("🔵 Attempting to save to S3...")
         df.to_csv(
             "s3://reddit-dag-paramjaswal/reddit_posts.csv",
-            index=False,
-            storage_options={"key": auth._core._authorizer._client_id, "secret": auth._core._authorizer._client_secret}
+            index=False
         )
+
         print("✅ Successfully uploaded to S3.")
     except Exception as e:
         print(f"❌ Failed to upload to S3: {e}")
