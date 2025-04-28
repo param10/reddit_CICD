@@ -1,7 +1,7 @@
 import os
 import sys
 
-# Add etl/ folder to sys.path BEFORE importing reddit_ETL
+# flake8: noqa: E402
 sys.path.append(
     os.path.join(
         os.path.dirname(os.path.abspath(__file__)),
