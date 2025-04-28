@@ -1,44 +1,89 @@
-name: Run ETL Pipeline
+name: CI/CD → Airflow
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
-  run-etl:
+  test-build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
+      - name: Run tests & lint
+        run: |
+          pytest --maxfail=1 --disable-warnings -q
+          flake8 .
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
-        pip install flake8 pytest
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v2
+        with:
+          username: ${{ secrets.DOCKERHUB_USER }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
 
-    - name: Set AWS credentials
-      env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        AWS_DEFAULT_REGION: ${{ secrets.AWS_REGION }}
-      run: |
-        echo "AWS credentials set"
-        
-    - name: Lint with flake8
-      run: |
-        flake8 .
+      - name: Build Airflow image
+        run: |
+          docker build \
+            --file Dockerfile.airflow \
+            --tag ${{ secrets.DOCKERHUB_USER }}/airflow:latest .
 
-    - name: Run tests
-      run: |
-        pytest
+      - name: Push Airflow image
+        run: |
+          docker push ${{ secrets.DOCKERHUB_USER }}/airflow:latest
 
-    - name: Run ETL script
-      run: |
-        python reddit_ETL.py
+      - name: Install SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.AIRFLOW_SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+
+      - name: Add host to known_hosts
+        run: |
+          ssh-keyscan -H "${{ secrets.AIRFLOW_SSH_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Deploy DAGs via rsync
+        run: |
+          rsync -avz --delete ./dags/ \
+            ${{ secrets.AIRFLOW_SSH_USER }}@${{ secrets.AIRFLOW_SSH_HOST }}:${{ secrets.AIRFLOW_DAG_PATH }}
+
+      - name: Pull new image & restart Docker-Compose
+        run: |
+          ssh ${{ secrets.AIRFLOW_SSH_USER }}@${{ secrets.AIRFLOW_SSH_HOST }} << 'EOF'
+            cd /home/ubuntu/airflow
+            docker-compose pull airflow
+            docker-compose up -d --no-deps airflow
+            docker-compose restart scheduler webserver
+          EOF
+
+  integration-test:
+    needs: test-build-and-deploy
+    runs-on: ubuntu-latest
+    services:
+      docker:
+        image: docker:19.03.12-dind
+        options: --privileged
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Start Airflow stack
+        run: |
+          docker-compose -f docker-compose.yml up -d
+
+      - name: Wait for Airflow to be healthy
+        run: |
+          sleep 30
+
+      - name: Trigger DAG run
+        run: |
+          docker exec airflow_webserver_1 \
+            airflow dags trigger my_dag_id --run-id ci_test_$(date +%s)
+
+      - name: Wait for DAG completion & assert
+        run: |
+          docker exec airflow_webserver_1 \
+            bash -c "airflow tasks list my_dag_id | xargs -n1 -I{} airflow tasks test my_dag_id {} $(date +%Y-%m-%d)"
+          pytest tests/integration
