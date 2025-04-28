@@ -53,7 +53,9 @@ def run_ETL():
     # Save to S3
     try:
         print("🔵 Attempting to save to S3...")
-        s3_filename = f"s3://reddit-dag-paramjaswal/reddit_posts_{today_str}.csv"
+        s3_filename = (
+            f"s3://reddit-dag-paramjaswal/reddit_posts_{today_str}.csv"
+        )
         df.to_csv(s3_filename, index=False)
         print(f"✅ Successfully uploaded to S3 as {s3_filename}")
     except Exception as e:
