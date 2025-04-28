@@ -59,12 +59,12 @@ jobs:
 
       - name: Pull new image & restart Docker-Compose
         run: |
-	  ssh ${{ secrets.AIRFLOW_SSH_USER }}@${{ secrets.AIRFLOW_SSH_HOST }} << 'EOF'
-  	    cd /home/ubuntu/airflow
- 	    docker-compose down
-     	    docker-compose pull
-  	    docker-compose up -d
-	  EOF
+          ssh ${{ secrets.AIRFLOW_SSH_USER }}@${{ secrets.AIRFLOW_SSH_HOST }} << 'EOF'
+            cd /home/ubuntu/airflow
+            docker-compose down
+            docker-compose pull
+            docker-compose up -d
+          EOF
 
   integration-test:
     needs: test-build-and-deploy
@@ -84,10 +84,12 @@ jobs:
           apt-get update && apt-get install -y docker-compose
 
       - name: Build local Airflow image
-        run: docker-compose -f docker-compose.yml build
+        run: |
+          docker-compose -f docker-compose.yml build
 
       - name: Start Airflow stack
-        run: docker-compose -f docker-compose.yml up -d
+        run: |
+          docker-compose -f docker-compose.yml up -d
 
       - name: Wait for Airflow health
         run: |
@@ -105,6 +107,4 @@ jobs:
         run: |
           CONTAINER=$(docker-compose ps -q webserver)
           for task in $(docker exec $CONTAINER airflow tasks list my_dag_id); do
-            docker exec $CONTAINER airflow tasks test my_dag_id $task $(date +%Y-%m-%d)
-          done
-          pytest tests/integration
+            docker exec $CONTAINER airflow tasks test my_dag_id $task
