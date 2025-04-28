@@ -54,3 +54,7 @@ def run_ETL():
 
     print("🟢 ETL Process Completed.")
 
+
+if __name__ == "__main__":
+    run_ETL()
+
