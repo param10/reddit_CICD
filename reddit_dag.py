@@ -1,4 +1,4 @@
-from datetime import timedelta, datetime
+from datetime import timedelta
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 import pendulum  
