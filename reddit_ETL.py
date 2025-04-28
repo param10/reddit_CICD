@@ -1,6 +1,7 @@
 import praw
 import pandas as pd
-import datetime as datetime
+import datetime
+
 
 def run_ETL():
     print("🔵 Starting ETL Process...")
@@ -27,7 +28,10 @@ def run_ETL():
             "author": str(submission.author),
             "score": submission.score,
             "num_comments": submission.num_comments,
-            "created_utc": datetime.datetime.fromtimestamp(submission.created_utc, tz=datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S'),
+            "created_utc": datetime.datetime.fromtimestamp(
+                submission.created_utc,
+                tz=datetime.timezone.utc
+            ).strftime('%Y-%m-%d %H:%M:%S'),
             "url": submission.url
         })
 
@@ -40,7 +44,7 @@ def run_ETL():
     df = pd.DataFrame(posts_data)
 
     today_str = datetime.datetime.now().strftime('%Y-%m-%d')
-    
+
     # Save locally
     local_filename = f'reddit_posts_{today_str}.csv'
     df.to_csv(local_filename, index=False)
@@ -56,6 +60,7 @@ def run_ETL():
         print(f"❌ Failed to upload to S3: {e}")
 
     print("🟢 ETL Process Completed.")
+
 
 if __name__ == "__main__":
     run_ETL()
