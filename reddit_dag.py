@@ -1,12 +1,12 @@
 import sys
 import os
-
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from datetime import datetime
 from reddit_ETL import run_ETL
+
+# Ensure local imports work if needed
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 default_args = {
     'owner': 'airflow',
@@ -21,7 +21,7 @@ with DAG(
     catchup=False,
     tags=['reddit'],
 ) as dag:
-    
+
     reddit_etl_task = PythonOperator(
         task_id='run_reddit_etl',
         python_callable=run_ETL,
