@@ -1,5 +1,6 @@
 name: CI/CD → Airflow
 
+# Trigger on pushes to main
 on:
   push:
     branches: [ main ]
@@ -9,20 +10,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2. Python for pytest/flake8
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # 3. Run unit-tests + lint
       - name: Run tests & lint
         run: |
           pytest --maxfail=1 --disable-warnings -q
           flake8 .
 
+      # 4. Authenticate to Docker registry
       - name: Log in to Docker Hub
         uses: docker/login-action@v2
         with:
           username: ${{ secrets.DOCKERHUB_USER }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
+      # 5. Build & push your Airflow image
       - name: Build Airflow image
         run: |
           docker build \
@@ -33,6 +49,7 @@ jobs:
         run: |
           docker push ${{ secrets.DOCKERHUB_USER }}/airflow:latest
 
+      # 6. SSH setup for deploy
       - name: Install SSH key
         run: |
           mkdir -p ~/.ssh
@@ -43,11 +60,13 @@ jobs:
         run: |
           ssh-keyscan -H "${{ secrets.AIRFLOW_SSH_HOST }}" >> ~/.ssh/known_hosts
 
+      # 7. Sync DAGs
       - name: Deploy DAGs via rsync
         run: |
           rsync -avz --delete ./dags/ \
             ${{ secrets.AIRFLOW_SSH_USER }}@${{ secrets.AIRFLOW_SSH_HOST }}:${{ secrets.AIRFLOW_DAG_PATH }}
 
+      # 8. Pull new image & restart Airflow on host
       - name: Pull new image & restart Docker-Compose
         run: |
           ssh ${{ secrets.AIRFLOW_SSH_USER }}@${{ secrets.AIRFLOW_SSH_HOST }} << 'EOF'
@@ -69,21 +88,37 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Install docker-compose CLI so we can spin up the stack
+      - name: Install docker-compose
+        run: |
+          apt-get update && apt-get install -y docker-compose
+
+      # Build the local image that docker-compose will use
+      - name: Build local Airflow image
+        run: docker-compose -f docker-compose.yml build
+
+      # Bring up the stack
       - name: Start Airflow stack
-        run: |
-          docker-compose -f docker-compose.yml up -d
+        run: docker-compose -f docker-compose.yml up -d
 
-      - name: Wait for Airflow to be healthy
+      # Wait until healthy
+      - name: Wait for Airflow health
         run: |
-          sleep 30
+          until curl -sf http://localhost:8080/health; do
+            echo "Waiting for Airflow…"
+            sleep 5
+          done
 
+      # Trigger your DAG and test tasks
       - name: Trigger DAG run
         run: |
-          docker exec airflow_webserver_1 \
+          docker exec "$(docker-compose ps -q webserver)" \
             airflow dags trigger my_dag_id --run-id ci_test_$(date +%s)
 
-      - name: Wait for DAG completion & assert
+      - name: Wait & assert DAG tasks
         run: |
-          docker exec airflow_webserver_1 \
-            bash -c "airflow tasks list my_dag_id | xargs -n1 -I{} airflow tasks test my_dag_id {} $(date +%Y-%m-%d)"
+          CONTAINER=$(docker-compose ps -q webserver)
+          for task in $(docker exec $CONTAINER airflow tasks list my_dag_id); do
+            docker exec $CONTAINER airflow tasks test my_dag_id $task $(date +%Y-%m-%d)
+          done
           pytest tests/integration
