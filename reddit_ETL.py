@@ -14,6 +14,8 @@ def run_ETL():
     posts_data = []
     subread = auth.subreddit('learnprogramming')
 
+#testing
+
     for submission in subread.search(
         query='python',
         limit=100,
