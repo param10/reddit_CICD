@@ -2,11 +2,12 @@ name: CI/CD → Airflow
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
   test-build-and-deploy:
-    runs-on: runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout repository
@@ -15,7 +16,6 @@ jobs:
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
         with:
-          # specify a valid version (e.g. 3.10, 3.11, 3.12)
           python-version: '3.10'
 
       - name: Install dependencies
@@ -36,9 +36,7 @@ jobs:
 
       - name: Build Airflow image
         run: |
-          docker build \
-            --file Dockerfile.airflow \
-            --tag ${{ secrets.DOCKERHUB_USER }}/airflow:latest .
+          docker build -f Dockerfile.airflow -t ${{ secrets.DOCKERHUB_USER }}/airflow:latest .
 
       - name: Push Airflow image
         run: |
@@ -70,7 +68,8 @@ jobs:
 
   integration-test:
     needs: test-build-and-deploy
-    runs-on: runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04
+
     services:
       docker:
         image: docker:19.03.12-dind
