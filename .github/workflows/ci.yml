@@ -1,4 +1,4 @@
-name: Reddit DAG CI
+name: Reddit DAG Full CI/CD with S3
 
 on:
   push:
@@ -7,13 +7,13 @@ on:
   pull_request:
 
 jobs:
-  build:
+  build_and_run:
     runs-on: ubuntu-latest
 
     env:
       AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      AWS_DEFAULT_REGION: us-east-1
+      AWS_DEFAULT_REGION: us-east-1  # or whatever region your bucket is in
 
     steps:
     - name: Checkout code
@@ -29,10 +29,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install apache-airflow pandas praw boto3 s3fs
 
-    - name: Check DAG imports
+    - name: Validate DAG imports
       run: |
         python -c "from reddit_dag import dag; print('✅ DAG imported successfully!')"
 
-    - name: RUN ETL Script
-      run: | 
-	python reddit_ETL.py
+    - name: Run ETL Script (Upload to S3)
+      run: |
+        python reddit_ETL.py
