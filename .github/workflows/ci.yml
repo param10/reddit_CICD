@@ -41,4 +41,4 @@ jobs:
 
     - name: Run ETL script
       run: |
-        python run_ETL.py
+        python reddit_ETL.py
