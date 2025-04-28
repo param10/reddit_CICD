@@ -1,0 +1,12 @@
+# Dockerfile.airflow
+FROM apache/airflow:2.8.1-python3.10
+
+# Copy your DAGs if needed
+COPY dags/ /opt/airflow/dags/
+
+# Install any custom requirements if you have
+# COPY requirements.txt .
+# RUN pip install --no-cache-dir -r requirements.txt
+
+# Expose Airflow ports (optional)
+EXPOSE 8080
