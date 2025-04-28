@@ -4,16 +4,15 @@ from datetime import datetime
 
 from airflow import DAG
 from airflow.operators.python import PythonOperator
+from reddit_ETL import run_ETL
 
-# Add etl/ folder to sys.path before importing custom modules
+# Add etl/ folder to sys.path after imports
 sys.path.append(
     os.path.join(
         os.path.dirname(os.path.abspath(__file__)),
         '../etl'
     )
 )
-
-from reddit_ETL import run_ETL
 
 default_args = {
     'owner': 'airflow',

@@ -1,15 +1,14 @@
 import os
 import sys
+import reddit_ETL
 
-# Add etl/ folder to sys.path before imports
+# Add etl/ folder to sys.path after imports
 sys.path.append(
     os.path.join(
         os.path.dirname(os.path.abspath(__file__)),
         'etl'
     )
 )
-
-import reddit_ETL
 
 
 def test_run_etl_functionality():
