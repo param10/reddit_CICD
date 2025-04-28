@@ -1,19 +1,13 @@
-name: Reddit DAG Full CI/CD with S3
+name: Run ETL Pipeline
 
 on:
   push:
     branches:
       - main
-  pull_request:
 
 jobs:
-  build_and_run:
+  run-etl:
     runs-on: ubuntu-latest
-
-    env:
-      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      AWS_DEFAULT_REGION: us-east-1  # or whatever region your bucket is in
 
     steps:
     - name: Checkout code
@@ -22,17 +16,29 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.10'
+        python-version: '3.11'
 
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install apache-airflow pandas praw boto3 s3fs
+        pip install -r requirements.txt
+        pip install flake8 pytest
 
-    - name: Validate DAG imports
+    - name: Set AWS credentials
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_DEFAULT_REGION: ${{ secrets.AWS_REGION }}
       run: |
-        python -c "from reddit_dag import dag; print('✅ DAG imported successfully!')"
+        echo "AWS credentials set"
+        
+    - name: Lint with flake8
+      run: |
+        flake8 run_ETL.py
 
-    - name: Run ETL Script (Upload to S3)
+    - name: Run tests
       run: |
-        python reddit_ETL.py
+        pytest
+
+    - name: Run ETL script
+      run: |
+        python run_ETL.py

@@ -14,8 +14,6 @@ def run_ETL():
     posts_data = []
     subread = auth.subreddit('learnprogramming')
 
-#testing
-
     for submission in subread.search(
         query='python',
         limit=100,
@@ -41,21 +39,23 @@ def run_ETL():
 
     df = pd.DataFrame(posts_data)
 
+    today_str = datetime.datetime.now().strftime('%Y-%m-%d')
+    
+    # Save locally
+    local_filename = f'reddit_posts_{today_str}.csv'
+    df.to_csv(local_filename, index=False)
+    print(f"🔵 Data saved locally as {local_filename}")
+
+    # Save to S3
     try:
         print("🔵 Attempting to save to S3...")
-        df.to_csv(
-            "s3://reddit-dag-paramjaswal/reddit_posts.csv",
-            index=False
-        )
-
-        print("✅ Successfully uploaded to S3.")
+        s3_filename = f"s3://reddit-dag-paramjaswal/reddit_posts_{today_str}.csv"
+        df.to_csv(s3_filename, index=False)
+        print(f"✅ Successfully uploaded to S3 as {s3_filename}")
     except Exception as e:
         print(f"❌ Failed to upload to S3: {e}")
 
     print("🟢 ETL Process Completed.")
 
-
 if __name__ == "__main__":
     run_ETL()
-
-#test
