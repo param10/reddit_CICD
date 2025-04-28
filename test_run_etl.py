@@ -1,7 +1,13 @@
-import sys
 import os
+import sys
 
-sys.path.append(os.path.join(os.path.dirname(__file__), 'etl'))
+# Add etl/ folder to sys.path before imports
+sys.path.append(
+    os.path.join(
+        os.path.dirname(os.path.abspath(__file__)),
+        'etl'
+    )
+)
 
 import reddit_ETL
 

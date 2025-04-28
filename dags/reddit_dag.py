@@ -1,16 +1,19 @@
-import sys
 import os
-from airflow import DAG
-from airflow.operators.python import PythonOperator
+import sys
 from datetime import datetime
 
-# Add etl/ folder to sys.path
-sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), '../etl'))
+from airflow import DAG
+from airflow.operators.python import PythonOperator
+
+# Add etl/ folder to sys.path before importing custom modules
+sys.path.append(
+    os.path.join(
+        os.path.dirname(os.path.abspath(__file__)),
+        '../etl'
+    )
+)
 
 from reddit_ETL import run_ETL
-
-# Ensure local imports work if needed
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 default_args = {
     'owner': 'airflow',
