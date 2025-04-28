@@ -33,7 +33,7 @@ jobs:
         
     - name: Lint with flake8
       run: |
-        flake8 run_ETL.py
+        flake8 .
 
     - name: Run tests
       run: |
