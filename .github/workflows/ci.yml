@@ -10,6 +10,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: us-east-1
+
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
@@ -28,3 +33,6 @@ jobs:
       run: |
         python -c "from reddit_dag import dag; print('✅ DAG imported successfully!')"
 
+    - name: RUN ETL Script
+      run: | 
+	python reddit_ETL.py
